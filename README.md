@@ -1,6 +1,6 @@
 # Homework list
 - [x] Exercise_02
-- [ ] Exercise_03
+- [x] Exercise_03
 - [ ] Exercise_04
 - [ ] Exercise_05
 - [ ] Exercise_06
