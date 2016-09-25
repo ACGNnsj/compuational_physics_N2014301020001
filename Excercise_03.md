@@ -37,3 +37,28 @@ for j in range(5) :
     time.sleep(1)
     continue
 ```
+ ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_03(1).gif?raw=true)
+ 
+---
+#作业L2 
+在80*80点阵上用字符拼出你想画的东西，并让它旋转起来，希望脑洞大开！（比如字符、火柴人、火箭等等）
+
+---
+```python
+import time
+import os
+a=("××××××××××××××××××××\n")
+b=("××××\n")
+c=("××××        ××××        ××××\n")
+d=("                                ××××\n")
+e=4*a+4*b
+f=4*a+4*d
+li=[2*e+4*a,4*a+16*c,2*f+4*a,16*c+4*a]
+i=0
+while i<20:
+    print(li[i%4])
+    time.sleep(1)
+    i=i+1
+    os.system('cls')
+```
+ ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_03(2).gif?raw=true)
