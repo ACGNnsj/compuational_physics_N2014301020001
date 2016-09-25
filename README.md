@@ -1,6 +1,6 @@
 # Homework list
 - [x] [Exercise_02](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_02.md)
-- [x] [Exercise_03](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_03.md）
+- [x] [Exercise_03](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_03.md)
 - [ ] Exercise_04
 - [ ] Exercise_05
 - [ ] Exercise_06
