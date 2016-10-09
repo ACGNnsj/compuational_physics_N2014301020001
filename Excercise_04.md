@@ -120,6 +120,16 @@
 
 **我们改变dt，比较不同大小dt对应的图像。**
 
-分别取dt1=0.05,dt2=0.01,dt3=0.1
+分别取dt1=0.05s，dt2=0.01s，dt3=0.1s
 
+#### [　　代码](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/Excercise_04(6).py)
 
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/figure_6.png?raw=true)
+
+可以看出dt越小<img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />越大，我们有理由认为，dt越小<img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />越趋近于理论值。
+
+***
+
+## **4.Conclusion（结论）**
+
+#### 从上述模拟实验中，我们可以得出结论，在题设条件下，经过一段时间后， 两种原子核间的衰变达到动态平衡，它们的数目恒定且相等；才用如上数值算法时，<img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />总是比理论值要小，但是当dt取得足够小时，<img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />就足够逼近理论值。
