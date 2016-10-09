@@ -68,6 +68,10 @@
 
 **首先，完全按照教案上的模板编写并运行第一个程序**
 
+#### [　　代码](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/Excercise_04(1).py)
+
+#### [　　数据](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/nuclei_decay_data(1).txt)
+
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/figure_1.png?raw=true)
 
 　　***我们可以看到，它确实展示了该初始条件下的变化状况，但光这样还不够。***
@@ -78,12 +82,24 @@
 
 * **情况2:　NA = 75,　NB = 25**
 
+#### [　　代码](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/Excercise_04(2).py)
+
+#### [　　数据](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/nuclei_decay_data(2).txt)
+
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/figure_2.png?raw=true)
 
 * **情况3:　NA = 50,　NB = 50**
 
+#### [　　代码](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/Excercise_04(3).py)
+
+#### [　　数据](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/nuclei_decay_data(3).txt)
+
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/figure_3.png?raw=true)
 
 * **汇总对比图**
+
+#### [　　代码](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/Excercise_04(4).py)
+
+#### [　　数据](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/nuclei_decay_data(4).txt)
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/figure_4.png?raw=true)
