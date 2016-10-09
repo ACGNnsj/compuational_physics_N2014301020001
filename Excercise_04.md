@@ -133,3 +133,11 @@
 ## **4.Conclusion（结论）**
 
 #### 从上述模拟实验中，我们可以得出结论，在题设条件下，经过一段时间后， 两种原子核间的衰变达到动态平衡，它们的数目恒定且相等；才用如上数值算法时，<img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />总是比理论值要小，但是当dt取得足够小时，<img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />就足够逼近理论值。
+
+***
+
+## **5.Acknowlegement（致谢）**
+* 蔡老师
+* 余康同学
+* 田原同学
+* 网络上热心分享技巧的大神
