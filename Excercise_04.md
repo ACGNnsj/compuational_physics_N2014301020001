@@ -114,5 +114,5 @@
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/figure_5.png?raw=true)
 
-
+由此可见，用该方法求得的<img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />比理论值要小， 不难想象这很可能是略去高阶无穷小项所致。
 
