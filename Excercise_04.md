@@ -103,3 +103,8 @@
 #### [　　数据](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/nuclei_decay_data(4).txt)
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/figure_4.png?raw=true)
+
+***
+
+**此外，我们还应该将数值模拟的结果与真值进行比较
+
