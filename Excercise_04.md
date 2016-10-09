@@ -82,4 +82,8 @@
 
 * **情况3:　NA = 50,　NB = 50**
 
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/figure_3.png?raw=true)
 
+* **汇总对比图**
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/figure_4.png?raw=true)
