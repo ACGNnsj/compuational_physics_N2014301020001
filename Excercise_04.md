@@ -37,3 +37,7 @@
 ![公式9](http://latex.codecogs.com/gif.latex?%5Cfrac%7BdN_A%28t%29%7D%7BN%20-%202N_A%28t%29%7D%20%3D%20%5Cfrac%7Bdt%7D%7B%5Ctau%7D)
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/CodeCogsEqn.gif?raw=true)
+
+显然，当![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/CodeCogsEqn%20(1).gif?raw=true)时，上两式不成立，易知，此时有![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/CodeCogsEqn%20(2).gif?raw=true)。
+
+其他情况下，可以解得![公式14](http://latex.codecogs.com/gif.latex?N_A%28t%29%20%3D%20%5Cfrac%7BN%7D%7B2%7D%20-%20%5Cfrac%7BN%20-%202N_A%280%29%7D%7B2%7De%5E%7B-%20%5Cfrac%7B2t%7D%7B%5Ctau%7D%7D) 
