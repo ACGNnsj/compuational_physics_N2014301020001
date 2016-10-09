@@ -1,4 +1,4 @@
-# Computational Physics Homework 4
+# Excercise_04
 ***
 
 ## **1.Abstract（摘要）**
@@ -41,3 +41,26 @@
 显然，当![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/CodeCogsEqn%20(1).gif?raw=true)时，上两式不成立，易知，此时有![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/CodeCogsEqn%20(2).gif?raw=true)。
 
 其他情况下，可以解得![公式14](http://latex.codecogs.com/gif.latex?N_A%28t%29%20%3D%20%5Cfrac%7BN%7D%7B2%7D%20-%20%5Cfrac%7BN%20-%202N_A%280%29%7D%7B2%7De%5E%7B-%20%5Cfrac%7B2t%7D%7B%5Ctau%7D%7D) 
+
+* **求数值解**
+
+首先，我们在t=0附近对<img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />进行泰勒展开：
+
+![公式16](http://latex.codecogs.com/gif.latex?N_A%28%5CDelta%20t%29%20%3D%20N_A%280%29%20&plus;%20%5Cfrac%7BdN_A%7D%7Bdt%7D%5CDelta%20t%20&plus;%20%5Cfrac%7B1%7D%7B2%7D%5Cfrac%7Bd%5E2N_A%7D%7Bdt%5E2%7D%20%28%5CDelta%20t%29%5E2%20&plus;%20%5Cdots%20%2C)
+
+如果![公式17](http://latex.codecogs.com/gif.latex?%5CDelta%20t)取得足够小，我们可以略去高阶无穷小项，得到
+
+![公式19](http://latex.codecogs.com/gif.latex?N_A%28%5CDelta%20t%29%20%5Capprox%20N_A%280%29%20&plus;%20%5Cfrac%7BdN_A%7D%7Bdt%7D%5CDelta%20t)
+
+同样，我们可以通过导数的定义得到该结果
+
+![公式20](http://latex.codecogs.com/gif.latex?%5Cfrac%7BdN_A%7D%7Bdt%7D%20%5Cequiv%20%5Clim_%7B%5CDelta%20t%20%5Crightarrow%200%20%7D%5Cfrac%7BN_A%28t%20&plus;%20%5CDelta%20t%29%20-%20N_A%28t%29%7D%7B%5CDelta%20t%7D%20%5Capprox%20%5Cfrac%7BN_A%28t%20&plus;%20%5CDelta%20t%29%20-%20N_A%28t%29%7D%7B%5CDelta%20t%7D)
+
+第二步中我们将![公式17](http://latex.codecogs.com/gif.latex?%5CDelta%20t)取得足够小，但不为0，移项可得
+
+![公式22](http://latex.codecogs.com/gif.latex?N_A%28t%20&plus;%20%5CDelta%20t%29%20%5Capprox%20N_A%28t%29%20&plus;%20%5Cfrac%7BdN_A%7D%7Bdt%7D%5CDelta%20t)
+
+在该问题中，我们已知![公式8](http://latex.codecogs.com/gif.latex?%5Cfrac%7BdN_A%28t%29%7D%7Bdt%7D%20%3D%20%5Cfrac%7BN%20-%20N_A%28t%29%7D%7B%5Ctau%7D%20-%20%5Cfrac%7BN_A%28t%29%7D%7B%5Ctau%7D%20%3D%20%5Cfrac%7BN%20-%202N_A%28t%29%7D%7B%5Ctau%7D)，从而有
+
+ ![公式23](http://latex.codecogs.com/gif.latex?N_A%28t%20&plus;%20%5CDelta%20t%29%20%5Capprox%20N_A%28t%29%20&plus;%20%5Cfrac%7BN%20-%202N_A%7D%7B%5Ctau%7D%5CDelta%20t)
+ 
