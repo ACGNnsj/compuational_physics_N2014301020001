@@ -75,3 +75,11 @@
 ***
 
 **因此，我们再在另两种初始条件下进行数值模拟。**
+
+* **情况2:　NA = 75,　NB = 25**
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/figure_2.png?raw=true)
+
+* **情况3:　NA = 50,　NB = 50**
+
+
