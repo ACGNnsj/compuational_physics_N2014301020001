@@ -64,3 +64,14 @@
 
  ![公式23](http://latex.codecogs.com/gif.latex?N_A%28t%20&plus;%20%5CDelta%20t%29%20%5Capprox%20N_A%28t%29%20&plus;%20%5Cfrac%7BN%20-%202N_A%7D%7B%5Ctau%7D%5CDelta%20t)
  
+### 程序设计和结果分析
+
+**首先，完全按照教案上的模板编写并运行第一个程序**
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/figure_1.png?raw=true)
+
+　　***我们可以看到，它确实展示了该初始条件下的变化状况，但光这样还不够。***
+
+***
+
+**因此，我们再在另两种初始条件下进行数值模拟。**
