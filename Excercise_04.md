@@ -106,5 +106,13 @@
 
 ***
 
-**此外，我们还应该将数值模拟的结果与真值进行比较
+**此外，我们还应该将数值模拟的结果与真值进行比较。**
+
+#### [　　代码](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/Excercise_04(5).py)
+
+#### [　　数据](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/nuclei_decay_data(5).txt)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/figure_5.png?raw=true)
+
+
 
