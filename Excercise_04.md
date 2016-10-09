@@ -28,3 +28,12 @@
 ## **3.Main（正文）**
 ### 思路
 * **求解析解**
+观察关系式可知两未知变量地位完全对等且它们的和为一常数，我们不妨设该常数为N并选一个变量进行求解。
+
+![公式7](http://latex.codecogs.com/gif.latex?N%20%3D%20N_A%20&plus;%20N_B%20%3D%20N_A%280%29%20&plus;%20N_B%280%29%20%3D%20N_A%28t%29%20&plus;%20N_B%28t%29)
+
+![公式8](http://latex.codecogs.com/gif.latex?%5Cfrac%7BdN_A%28t%29%7D%7Bdt%7D%20%3D%20%5Cfrac%7BN%20-%20N_A%28t%29%7D%7B%5Ctau%7D%20-%20%5Cfrac%7BN_A%28t%29%7D%7B%5Ctau%7D%20%3D%20%5Cfrac%7BN%20-%202N_A%28t%29%7D%7B%5Ctau%7D)
+
+![公式9](http://latex.codecogs.com/gif.latex?%5Cfrac%7BdN_A%28t%29%7D%7BN%20-%202N_A%28t%29%7D%20%3D%20%5Cfrac%7Bdt%7D%7B%5Ctau%7D)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04/CodeCogsEqn.gif?raw=true)
