@@ -19,3 +19,17 @@
 
 为方便计算将![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05/CodeCogsEqn%20(12).gif?raw=true)正交分解如下（![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05/CodeCogsEqn%20(13).gif?raw=true)同理，乘上对应密度系数即可）![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05/CodeCogsEqn%20(10).gif?raw=true)，![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05/CodeCogsEqn%20(11).gif?raw=true)
 
+###2. 近似计算
+
+  据上述结果运用欧拉法有
+  
+  ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05/CodeCogsEqn%20(4).gif?raw=true)
+  
+  ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05/CodeCogsEqn%20(5).gif?raw=true)
+  
+  ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05/CodeCogsEqn%20(6).gif?raw=true)
+  
+  ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05/CodeCogsEqn%20(7).gif?raw=true)
+  
+###3.程序模拟
+
