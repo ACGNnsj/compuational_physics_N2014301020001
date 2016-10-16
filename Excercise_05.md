@@ -127,3 +127,17 @@ user_input()
 user_output()
 end = input("\n\n\n按下回车结束程序...")
 ```
+
+###4.结果分析
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05/QQ%E6%88%AA%E5%9B%BE20161017013021.png?raw=true)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05/QQ%E6%88%AA%E5%9B%BE20161017013214.png?raw=true)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05/QQ%E6%88%AA%E5%9B%BE20161017013546.png?raw=true)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05/QQ%E6%88%AA%E5%9B%BE20161017013258.png)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05/QQ%E6%88%AA%E5%9B%BE20161017013341.png?raw=true)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05/QQ%E6%88%AA%E5%9B%BE20161017013705.png?raw=true)
