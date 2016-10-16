@@ -141,3 +141,5 @@ end = input("\n\n\n按下回车结束程序...")
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05/QQ%E6%88%AA%E5%9B%BE20161017013341.png?raw=true)
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05/QQ%E6%88%AA%E5%9B%BE20161017013705.png?raw=true)
+
+从以上几组参数对应的模拟计算结果可以看出dt=0.01s时的精度已经足够，最大落地距离与初速度正相关，而其对应的发射角度与初速度的关系并不是单调函数
