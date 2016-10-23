@@ -204,4 +204,4 @@ end = input("--------------------\n按下回车结束程序...")
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/Output8.png?raw=true)
 
-
+#### 通过如上几组模拟我们可以看到，当扫描五至六层时结果已足够精确，而加大末端扫描层数的做法无法修正初始步幅过大引起的误差。
