@@ -183,3 +183,7 @@ end = input("--------------------\n按下回车结束程序...")
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/Output1.png?raw=true)
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/Output2.png?raw=true)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/Output3.png?raw=true)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/Output4.png?raw=true)
