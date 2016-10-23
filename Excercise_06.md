@@ -15,3 +15,5 @@
 **这次我选用棒球的阻力系数来模拟炮弹的情况**
 
 即![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/CodeCogsEqn.gif?raw=true)
+
+其中![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/CodeCogsEqn%20(1).gif?raw=true)
