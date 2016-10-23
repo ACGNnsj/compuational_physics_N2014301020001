@@ -29,6 +29,17 @@
 
 算法上我们依然和上次作业一样使用欧拉法。
 
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/raw/master/Excercise_05/CodeCogsEqn%20(4).gif?raw=true)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/raw/master/Excercise_05/CodeCogsEqn%20(5).gif?raw=true)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/CodeCogsEqn%20(4).gif?raw=true)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/CodeCogsEqn%20(5).gif?raw=true)
+
+其中![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/CodeCogsEqn%20(6).gif?raw=true)
+
+
 显然，想要找出可以打中目标的最小发射速度，在给定风速、水平距离和竖直高度三个参数的基础上至少需要发射角度和发射速度两个变量。我们可以嵌套循环对两个变量进行双重扫描，从而找到给定的水平距离和竖直高度下的最小发射速度。
 
 此外，找到最小发射速度后，我们以其为中心建立新的扫描区间，并以上次扫描步幅的十分之一进行扫描，如此往复数次。这种末端精确扫描的方法既能节省计算资源，又能获得较精确的结果。
