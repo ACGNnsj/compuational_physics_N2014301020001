@@ -25,3 +25,9 @@
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/CodeCogsEqn%20(2).gif?raw=true)
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/CodeCogsEqn%20(3).gif?raw=true)
+
+**关于海拔高度的影响和绝热模型和上次作业一致，有 **
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/raw/master/Excercise_05/CodeCogsEqn%20(2).gif?raw=true)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/raw/master/Excercise_05/CodeCogsEqn%20(1).gif?raw=true)
