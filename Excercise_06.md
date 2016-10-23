@@ -31,3 +31,9 @@
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/raw/master/Excercise_05/CodeCogsEqn%20(2).gif?raw=true)
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/raw/master/Excercise_05/CodeCogsEqn%20(1).gif?raw=true)
+
+***
+ 
+### 设计思路
+
+显然，想要找出可以打中目标的最小发射速度，在固定水平距离和竖直高度两个参数的基础上至少需要发射角度和发射速度两个变量。我们可以嵌套循环对两个变量进行双重扫描，从而找到给定的水平距离和竖直高度下 的最小发射速度。
