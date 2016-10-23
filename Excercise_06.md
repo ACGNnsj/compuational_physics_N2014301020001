@@ -14,4 +14,4 @@
 
 **这次我选用棒球的阻力系数来模拟炮弹的情况**
 
-![image]()
+即![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/CodeCogsEqn.gif?raw=true)
