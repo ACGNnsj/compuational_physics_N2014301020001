@@ -180,12 +180,24 @@ end = input("--------------------\n按下回车结束程序...")
  
 ### 结果演示
 
+* 第一组
+
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/Output1.png?raw=true)
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/Output2.png?raw=true)
+
+* 第二组
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/Output3.png?raw=true)
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/Output4.png?raw=true)
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/Output5.png?raw=true)
+
+* 第三组
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/Output6.png?raw=true)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/Output7.png?raw=true)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06/Output8.png?raw=true)
