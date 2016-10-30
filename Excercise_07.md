@@ -77,6 +77,9 @@ Repeat the previous problem, but give the two pendulums slightly different dampi
 ###3.程序模拟
 * 我们先研究比较不同参数下，摆角及角速度随时间的变化关系
 
-[查看程序]()
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/Excercise_07.py)
+
+结果如下
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/figure_1-1.png?raw=true)
 
 
