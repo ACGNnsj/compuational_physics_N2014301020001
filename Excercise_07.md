@@ -7,4 +7,6 @@ In constructing the Poincaré section in Figure 3.9 we plotted points only at ti
 #### Exercise 3.13
 Write a program to calculate and compare the behavior of two, nearly identical pendulums. Use it to calculate the divergence of two nearby trajectories in the chaotic regime, as in Figure 3.7, and make a qualitative estimate of the corresponding Lyapunov exponent from the slope of a plot of <img src="http://latex.codecogs.com/gif.latex?log(\Delta\theta)" alt="" title="" /> as a function of <img src="http://latex.codecogs.com/gif.latex?t" alt="" title="" />.
 
+#### Exercise 3.14
+Repeat the previous problem, but give the two pendulums slightly different damping factors. How does the value of the Lyapunov exponent compare with that found in Figure 3.7?
 ***
