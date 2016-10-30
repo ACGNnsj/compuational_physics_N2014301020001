@@ -3,8 +3,8 @@
 - [x] [Exercise_03](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_03.md)
 - [x] [Exercise_04](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_04.md)
 - [x] [Exercise_05](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_05.md)
-- [ ] Exercise_06
-- [ ] Exercise_07
+- [x] [Exercise_06](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_06.md)
+- [x] [Exercise_07](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07.md)
 - [ ] Exercise_08
 - [ ] Exercise_09
 - [ ] Exercise_10
