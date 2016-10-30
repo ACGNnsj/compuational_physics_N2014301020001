@@ -10,3 +10,6 @@ Write a program to calculate and compare the behavior of two, nearly identical p
 #### Exercise 3.14
 Repeat the previous problem, but give the two pendulums slightly different damping factors. How does the value of the Lyapunov exponent compare with that found in Figure 3.7?
 ***
+
+###1. 理论推导
+过去我们已经学习了一些单摆的基础知识，在无阻尼和驱动力且摆角很小的情况下单摆的动力学方程近似为
