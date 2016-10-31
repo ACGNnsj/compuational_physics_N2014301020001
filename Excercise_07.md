@@ -102,13 +102,13 @@ Repeat the previous problem, but give the two pendulums slightly different dampi
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/figure_1-2.png?raw=true)
 
 根据![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/CodeCogsEqn%20(17).gif?raw=true)
-观察得q=0.5时， 不同驱动力下对应的李雅普诺夫指数分别约为-0.25和0.1
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;观察得q=0.5时， 不同驱动力下对应的李雅普诺夫指数分别约为-0.25和0.1
 
 而q=0.56时，不同驱动力下对应的李雅普诺夫指数均减小
 
 **3.接着我们来解决问题3.12**
 
-首先，我们画出一般的庞加莱截面图
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先，我们画出一般的庞加莱截面图
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/Excercise_07(2).py)
 
@@ -120,10 +120,12 @@ Repeat the previous problem, but give the two pendulums slightly different dampi
 
 而当<img src="http://latex.codecogs.com/gif.latex?F_{D}=1.2" alt="" title="" />时，庞加莱截面上是一些成片的具有分形结构的密集点，运动变为混沌的
 
-按题目要求，我们选取驱动力特定相位附近的点绘制庞加莱截面图
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按题目要求，我们选取驱动力特定相位附近的点绘制庞加莱截面图
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/Excercise_07(3).py)
 
 结果如下
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/figure_1-4.png?raw=true)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们在这几张图中都可以观察到奇异吸引子，它们具有分形结构
