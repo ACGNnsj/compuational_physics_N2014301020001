@@ -75,11 +75,18 @@ Repeat the previous problem, but give the two pendulums slightly different dampi
 注意，若<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/CodeCogsEqn%20(13).gif?raw=true" alt="" title="" />不在区间<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/CodeCogsEqn%20(14).gif?raw=true" alt="" title="" />内，我们须通过加或减<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/CodeCogsEqn%20(15).gif?raw=true" alt="" title="" />使其落入区间内。
 
 ###3.程序模拟
-* 我们先研究比较不同参数下，摆角及角速度随时间的变化关系
+**1.我们先研究比较不同参数下，摆角及角速度随时间的变化关系**
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/Excercise_07.py)
 
 结果如下
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/figure_1-1.png?raw=true)
+
+* 可见，图1和图6是无驱动力的情况，单摆做欠阻尼振动，运动很快停止
+
+* 但如果加上一定的驱动力，你会发现单摆的振动频率变得和驱动力一样，如图2和图7所示
+
+* 当驱动力超过某一范围时，单摆进行大角摆动，其动力学方程不再能近似为线性微分方程，它的解不具有稳定性，初始条件做出微小的改变，会得到完全不同的解，如剩下的图所示，这是混沌现象的体现
+
 
 
