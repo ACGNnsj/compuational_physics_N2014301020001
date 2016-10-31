@@ -128,3 +128,6 @@ Repeat the previous problem, but give the two pendulums slightly different dampi
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/figure_1-4.png?raw=true)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们在这几张图中都可以观察到奇异吸引子，它们具有分形结构
+
+###4.心得体会
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;混沌并非等同于复杂，混沌现象普遍存在于大量非线性系统中，结构简单如单摆也可能做混沌运动；存在混沌现象动力学系统对初值十分敏感，简单原因可导致复杂后果；混沌理论与分形几何学有着密不可分的联系，后者是研究前者的有力工具。
