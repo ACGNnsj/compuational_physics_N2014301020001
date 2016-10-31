@@ -26,11 +26,11 @@ class physical_pendulum_changing_initial_angle:
 class physical_pendulum_changing_initial_angle_2(physical_pendulum_changing_initial_angle):
     def calculate(self):
         for i in range(self.steps):
-            midpoint_omega = self.omega[i] + 0.5 * (-math.sin(self.theta[i]) - 0.6 * self.omega[i] + self.FD * math.sin(0.66666666667 * self.t[i])) * self.dt
+            midpoint_omega = self.omega[i] + 0.5 * (-math.sin(self.theta[i]) - 0.56 * self.omega[i] + self.FD * math.sin(0.66666666667 * self.t[i])) * self.dt
             midpoint_time = self.t[i] + 0.5 * self.dt
             midpoint_theta = self.theta[i] + 0.5 * self.dt
             temporary_theta = self.theta[i] + midpoint_omega * self.dt
-            temporary_omega = self.omega[i] + (-math.sin(midpoint_theta) - 0.6 * midpoint_omega + self.FD * math.sin(0.66666666667 * midpoint_time)) * self.dt
+            temporary_omega = self.omega[i] + (-math.sin(midpoint_theta) - 0.56 * midpoint_omega + self.FD * math.sin(0.66666666667 * midpoint_time)) * self.dt
             self.theta.append(temporary_theta)
             self.omega.append(temporary_omega)
             self.t.append(self.t[i] + self.dt)
@@ -89,7 +89,7 @@ for i in range(len(p2_low_drive_2.theta)):
 
 plt.subplot(223)
 plt.plot(p1_low_drive_2.t, angle_difference_1_2)
-plt.title((r'$\ln \left (\Delta \theta   \right )$ versus time $F_D =0.5$ $q=0.6$'))
+plt.title((r'$\ln \left (\Delta \theta   \right )$ versus time $F_D =0.5$ $q=0.56$'))
 plt.ylabel(r'$\ln \left (\Delta \theta   \right )$ (radian)')
 plt.xlabel("time (s)")
 plt.xlim(0, 50)
@@ -107,7 +107,7 @@ for i in range(len(p1_high_drive_2.theta)):
 
 plt.subplot(224)
 plt.plot(p1_high_drive_2.t, angle_difference_2_2)
-plt.title((r'$\ln \left (\Delta \theta   \right )$ versus time $F_D =1.2$ $q=0.6$'))
+plt.title((r'$\ln \left (\Delta \theta   \right )$ versus time $F_D =1.2$ $q=0.56$'))
 plt.ylabel(r'$\ln \left (\Delta \theta   \right )$ (radian)')
 plt.xlabel("time (s)")
 plt.xlim(0, 150)
