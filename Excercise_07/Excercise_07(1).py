@@ -30,11 +30,11 @@ class physical_pendulum_changing_initial_angle_2(physical_pendulum_changing_init
             midpoint_time = self.t[i] + 0.5 * self.dt
             midpoint_theta = self.theta[i] + 0.5 * self.dt
             temporary_theta = self.theta[i] + midpoint_omega * self.dt
-            temporary_omega = self.omega[i] + (-math.sin(midpoint_theta) - 0.5 * midpoint_omega + self.FD * math.sin(0.66666666667 * midpoint_time)) * self.dt
+            temporary_omega = self.omega[i] + (-math.sin(midpoint_theta) - 0.6 * midpoint_omega + self.FD * math.sin(0.66666666667 * midpoint_time)) * self.dt
             self.theta.append(temporary_theta)
             self.omega.append(temporary_omega)
             self.t.append(self.t[i] + self.dt)
-            self.energy.append(0.5 * 9.8 ** 2 * (temporary_omega) ** 2 + 9.8 * 9.8 * (1 - math.cos(temporary_theta))) # m=1
+            self.energy.append(0.5 * 9.8 ** 2 * (temporary_omega) ** 2 + 9.8 * 9.8 * (1 - math.cos(temporary_theta)))
 
 plt.rc('text', usetex=True)
 plt.rc('font', family='serif')
