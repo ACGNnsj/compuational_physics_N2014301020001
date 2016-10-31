@@ -90,9 +90,11 @@ Repeat the previous problem, but give the two pendulums slightly different dampi
 
 * 当驱动力超过某一范围时，单摆进行大角摆动，其动力学方程不再能近似为线性微分方程，它的解不具有稳定性，初始条件做出微小的改变，会得到完全不同的解，如剩下的图所示，这是混沌现象的体现
 
-**2.我们先来解决问题3.13**
+**2.我们先来解决问题3.13和3.14**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在此我们研究两个单摆系统，参数与之前相同，但它们的初始摆角相差0.001rad
+
+这里我们采用龙格-库塔法
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/Excercise_07(1).py)
 
