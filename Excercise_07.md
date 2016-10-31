@@ -92,5 +92,9 @@ Repeat the previous problem, but give the two pendulums slightly different dampi
 
 **2.我们先来解决问题3.13**
 
-在此我们研究两个单摆系统，参数与之前相同，但它们的初始摆角相差0.001rad
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在此我们研究两个单摆系统，参数与之前相同，但它们的初始摆角相差0.001rad
 
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/Excercise_07(1).py)
+
+它们的摆角差取常用对数随时间的变化如下
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/figure_1-2.png?raw=true)
