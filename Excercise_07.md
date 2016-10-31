@@ -119,3 +119,11 @@ Repeat the previous problem, but give the two pendulums slightly different dampi
 当<img src="http://latex.codecogs.com/gif.latex?F_{D}=0.5" alt="" title="" />时，庞加莱界面上大致是一封闭曲线，可以认为运动是准周期的
 
 而当<img src="http://latex.codecogs.com/gif.latex?F_{D}=1.2" alt="" title="" />时，庞加莱截面上是一些成片的具有分形结构的密集点，运动变为混沌的
+
+按题目要求，我们选取驱动力特定相位附近的点绘制庞加莱截面图
+
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/Excercise_07(3).py)
+
+结果如下
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/figure_1-4.png?raw=true)
