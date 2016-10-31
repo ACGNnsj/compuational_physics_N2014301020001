@@ -98,3 +98,8 @@ Repeat the previous problem, but give the two pendulums slightly different dampi
 
 它们的摆角差取常用对数随时间的变化如下
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/figure_1-2.png?raw=true)
+
+根据![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/CodeCogsEqn%20(17).gif?raw=true)
+观察得q=0.5时， 不同驱动力下对应的李雅普诺夫指数分别约为-0.25和0.1
+
+而q=0.6时，李雅普诺夫指数大致与之前相同
