@@ -108,3 +108,10 @@ Repeat the previous problem, but give the two pendulums slightly different dampi
 
 **3.接着我们来解决问题3.12**
 
+首先，我们画出一般的庞加莱截面图
+
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/Excercise_07(2).py)
+
+结果如下
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/figure_1-3.png?raw=true)
