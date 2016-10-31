@@ -115,3 +115,7 @@ Repeat the previous problem, but give the two pendulums slightly different dampi
 结果如下
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/figure_1-3.png?raw=true)
+
+当<img src="http://latex.codecogs.com/gif.latex?F_{D}=0.5" alt="" title="" />时，庞加莱界面上大致是一封闭曲线，可以认为运动是准周期的
+
+而当<img src="http://latex.codecogs.com/gif.latex?F_{D}=1.2" alt="" title="" />时，庞加莱截面上是一些成片的具有分形结构的密集点，运动变为混沌的
