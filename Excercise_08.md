@@ -38,7 +38,7 @@
 
 <a href="http://www.codecogs.com/eqnedit.php?latex=r=4" target="_blank"><img src="http://latex.codecogs.com/gif.latex?r=4" title="r=4" /></a>的单峰映象是位元移动映射及参数<a href="http://www.codecogs.com/eqnedit.php?latex=\mu&space;=2" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\mu&space;=2" title="\mu =2" /></a>的帐篷映射的非线性变换。
 
-![image](https://upload.wikimedia.org/wikipedia/commons/8/8d/Logistic_map_with_parameter_from_0.02_to_4_t_from_0_to_200.gif)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_08/Logistic%20map.gif?raw=true)
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/e/ed/LogisticCobwebChaos.gif)
 
@@ -47,6 +47,8 @@
 ![image](https://upload.wikimedia.org/wikipedia/commons/7/7d/LogisticMap_BifurcationDiagram.png)
 
 * **分岔理论**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分岔理论或分歧理论（bifurcation theory）是数学中研究一群曲线在本质或是拓扑结构上的改变。一群曲线可能是向量场内的积分曲线，也可能是一群类似微分方程的解。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分岔（bifurcation）常出现在动态系统的数学研究中，是指系统参数（分岔参数）小而连续的变化，结果造成系统本质或是拓扑结构的突然改变。分岔会出现在连续系统（以常微分方程、时滞微分方程或偏微分方程来描述）或是离散系统中 （以映射来描述）。
+
