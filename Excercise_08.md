@@ -44,13 +44,22 @@
 
 <a href="http://www.codecogs.com/eqnedit.php?latex=r=4" target="_blank"><img src="http://latex.codecogs.com/gif.latex?r=4" title="r=4" /></a>的单峰映象是位元移动映射及参数<a href="http://www.codecogs.com/eqnedit.php?latex=\mu&space;=2" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\mu&space;=2" title="\mu =2" /></a>的帐篷映射的非线性变换。
 
-![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_08/Logistic%20map.gif?raw=true)
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_08/Logistic%20map.gif?raw=true" alt="" title="" />
+</div>
 
-![image](https://upload.wikimedia.org/wikipedia/commons/e/ed/LogisticCobwebChaos.gif)
+<div align=center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/LogisticCobwebChaos.gif" alt="" title="" />
+</div>
 
-![image](https://upload.wikimedia.org/wikipedia/commons/2/2f/Logistic_map.png)
+<div align=center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logistic_map.png" alt="" title="" />
+</div>
 
-![image](https://upload.wikimedia.org/wikipedia/commons/7/7d/LogisticMap_BifurcationDiagram.png)
+<div align=center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/LogisticMap_BifurcationDiagram.png" alt="" title="" />
+</div>
+
 
 * **分岔理论**
 
