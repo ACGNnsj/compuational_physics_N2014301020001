@@ -2,9 +2,11 @@
 
 
 ---
+###1. 摘要
+**EXERCISES**
 
-#Abstract
-In this program I use the Runga-Kutta method to calculate the angle in phase with the frequency of the driving force after the transient period.Then I change the frequency for observation of the angle an find that the curves in the phase space are still similar. In the last part I plot the bifurcation diagram and a magnified version, and find the transition value of FD and calculate the first two value of the Feigenbaum delta in this system.
+3.18. Calculate Poincaré sections for the pendulum as it undergoes the period-doubling route to chaos. Plot ω versus θ, with one point plotted for each drive cycle, as in Figure 3.9. Do this for FD = 1.4, 1.44, and 1.465, using the other parameters as given in connection with Figure 3.10. You should find that after removing the points corresponding to the initial transient the attractor in the period-1 regime will contain only a single point. Likewise, if the behavior is period n, the attractor will contain n discrete points.
+
 
 ---
 #Background
