@@ -45,3 +45,8 @@
 ![image](https://upload.wikimedia.org/wikipedia/commons/2/2f/Logistic_map.png)
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/7/7d/LogisticMap_BifurcationDiagram.png)
+
+* **分岔理论**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分岔理论或分歧理论（bifurcation theory）是数学中研究一群曲线在本质或是拓扑结构上的改变。一群曲线可能是向量场内的积分曲线，也可能是一群类似微分方程的解。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分岔（bifurcation）常出现在动态系统的数学研究中，是指系统参数（分岔参数）小而连续的变化，结果造成系统本质或是拓扑结构的突然改变。分岔会出现在连续系统（以常微分方程、时滞微分方程或偏微分方程来描述）或是离散系统中 （以映射来描述）。
