@@ -37,3 +37,11 @@
 可是在特定初始条件及参数时，单峰映象的人口模型会出现负的人口数，较早期使用的Ricker模型也有混沌现象，但没有这种问题。
 
 <a href="http://www.codecogs.com/eqnedit.php?latex=r=4" target="_blank"><img src="http://latex.codecogs.com/gif.latex?r=4" title="r=4" /></a>的单峰映象是位元移动映射及参数<a href="http://www.codecogs.com/eqnedit.php?latex=\mu&space;=2" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\mu&space;=2" title="\mu =2" /></a>的帐篷映射的非线性变换。
+
+![image](https://upload.wikimedia.org/wikipedia/commons/8/8d/Logistic_map_with_parameter_from_0.02_to_4_t_from_0_to_200.gif)
+
+![image](https://upload.wikimedia.org/wikipedia/commons/e/ed/LogisticCobwebChaos.gif)
+
+![image](https://upload.wikimedia.org/wikipedia/commons/2/2f/Logistic_map.png)
+
+
