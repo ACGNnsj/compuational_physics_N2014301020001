@@ -44,4 +44,4 @@
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/2/2f/Logistic_map.png)
 
-
+![image](https://upload.wikimedia.org/wikipedia/commons/7/7d/LogisticMap_BifurcationDiagram.png)
