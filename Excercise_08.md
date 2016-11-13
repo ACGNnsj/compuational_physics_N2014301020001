@@ -91,7 +91,10 @@ r=3.5的单峰映象，在头三次迭代后的函数
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事实上，这次作业中的物理模型与上次作业并无区别，单摆的动力学方程如下
 
-
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_07/CodeCogsEqn%20(9).gif?raw=true" alt="" title="" />
 </div>
+
+* **算法探讨**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;和上一次作业一样，我们依然采用欧拉-克罗默方法求数值解以得到收敛解
