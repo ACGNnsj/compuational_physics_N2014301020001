@@ -54,6 +54,8 @@
 
 <div align=center>
 ![image](https://upload.wikimedia.org/wikipedia/commons/e/e2/Saddlenode.gif)
+</div>
 
+<div align=center>
 鞍结分岔的相图
 </div>
