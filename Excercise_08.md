@@ -17,4 +17,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;任何粒子在经历一个漫长的时间之后必然能回到其无限接近其初始位置的位置（但是不能回到原来位置，只能无限接近），尽管这个时间的长度远远超出我们所能想象，但是它必然会实现，这样一个周期就称为一个庞加莱回归。
 
 * **单峰映象**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;单峰映象（logistic map）是种二次的多项式映射（递推关系式），是一个由简单非线性方程式产生混沌现象的经典范例。这种映射因生物学家Robert May在1976年发表的一篇论文而著名。单峰映象原本被Pierre François Verhulst用作一个人口学模型，后来应用在物种受到限制因素之下的数目[1]。数学上可写成![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/b84673eee90dff3113ee6263cc20a628979cc11d)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;单峰映象（logistic map）是种二次的多项式映射（递推关系式），是一个由简单非线性方程式产生混沌现象的经典范例。这种映射因生物学家Robert May在1976年发表的一篇论文而著名。单峰映象原本被Pierre François Verhulst用作一个人口学模型，后来应用在物种受到限制因素之下的数目[1]。数学上可写成<a href="http://www.codecogs.com/eqnedit.php?latex=x_{n&plus;1}=rx_{n}(1-x_{n})" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{n&plus;1}=rx_{n}(1-x_{n})" title="x_{n+1}=rx_{n}(1-x_{n})" /></a>
