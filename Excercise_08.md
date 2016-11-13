@@ -120,3 +120,12 @@ r=3.5的单峰映象，在头三次迭代后的函数
  <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_08/figure_1-3.png?raw=true" alt="" title="" />
 </div>
+
+---
+###4. 结论
+
+* **VPython动画**
+
+ <div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_08/3045942-21543eb70a7b1596.gif?raw=true" alt="" title="" />
+</div>
