@@ -16,7 +16,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;任何粒子在经历一个漫长的时间之后必然能回到其无限接近其初始位置的位置（但是不能回到原来位置，只能无限接近），尽管这个时间的长度远远超出我们所能想象，但是它必然会实现，这样一个周期就称为一个庞加莱回归。
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Poincare_map.svg/771px-Poincare_map.svg.png)
+<div align=center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Poincare_map.svg/771px-Poincare_map.svg.png" alt="" title="" />
+</div>
+
+<div align=center>
+在庞加莱截面 S 上, 庞加莱映射 P 将 x 映射为 P(x).
+</div>
 
 * **单峰映象**
 
