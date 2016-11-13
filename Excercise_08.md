@@ -101,7 +101,9 @@ r=3.5的单峰映象，在头三次迭代后的函数
 
 * **程序模拟**
 
- [程序地址]()
+ [程序地址](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_08/Exercise_08.py)
+ 
+在不同的<a href="http://www.codecogs.com/eqnedit.php?latex=F_{D}=1.4,&space;\:&space;1.44\:&space;and\:&space;1.465" target="_blank">
  
  <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_08/figure_1-1.png?raw=true" alt="" title="" />
