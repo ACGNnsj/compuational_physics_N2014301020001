@@ -23,4 +23,5 @@
 其中
 
 <a href="http://www.codecogs.com/eqnedit.php?latex=x_{n}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{n}" title="x_{n}" /></a>是介于0和1之间的数，<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>表示在第年的物种数目。
+
 <a href="http://www.codecogs.com/eqnedit.php?latex=r" target="_blank"><img src="http://latex.codecogs.com/gif.latex?r" title="r" /></a>是正整数，是根据繁殖和饿死率而得出的数。
