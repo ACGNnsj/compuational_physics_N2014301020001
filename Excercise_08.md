@@ -53,12 +53,17 @@
 </div>
 
 <div align=center>
+单峰映象的蛛网图，在超过3.57的大部分r值可看出其混沌的特性
+</div>
+
+<div align=center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logistic_map.png" alt="" title="" />
 </div>
 
 <div align=center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/LogisticMap_BifurcationDiagram.png" alt="" title="" />
 </div>
+
 
 
 * **分岔理论**
