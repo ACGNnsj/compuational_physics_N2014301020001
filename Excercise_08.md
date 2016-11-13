@@ -61,6 +61,10 @@
 </div>
 
 <div align=center>
+r=3.5的单峰映象，在头三次迭代后的函数
+</div>
+
+<div align=center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/LogisticMap_BifurcationDiagram.png" alt="" title="" />
 </div>
 
