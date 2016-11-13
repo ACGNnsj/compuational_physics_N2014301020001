@@ -3,7 +3,7 @@
 
 ---
 ###1. 摘要
-**EXERCISES**
+* EXERCISES
 
 3.18. Calculate Poincaré sections for the pendulum as it undergoes the period-doubling route to chaos. Plot ω versus θ, with one point plotted for each drive cycle, as in Figure 3.9. Do this for FD = 1.4, 1.44, and 1.465, using the other parameters as given in connection with Figure 3.10. You should find that after removing the points corresponding to the initial transient the attractor in the period-1 regime will contain only a single point. Likewise, if the behavior is period n, the attractor will contain n discrete points.
 
