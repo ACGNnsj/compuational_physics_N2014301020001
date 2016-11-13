@@ -52,3 +52,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分岔（bifurcation）常出现在动态系统的数学研究中，是指系统参数（分岔参数）小而连续的变化，结果造成系统本质或是拓扑结构的突然改变。分岔会出现在连续系统（以常微分方程、时滞微分方程或偏微分方程来描述）或是离散系统中 （以映射来描述）。
 
+<div align=center>
+![image](https://upload.wikimedia.org/wikipedia/commons/e/e2/Saddlenode.gif)
+
+鞍结分岔的相图
+</div>
