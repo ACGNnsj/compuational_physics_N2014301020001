@@ -19,3 +19,8 @@
 * **单峰映象**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;单峰映象（logistic map）是种二次的多项式映射（递推关系式），是一个由简单非线性方程式产生混沌现象的经典范例。这种映射因生物学家Robert May在1976年发表的一篇论文而著名。单峰映象原本被Pierre François Verhulst用作一个人口学模型，后来应用在物种受到限制因素之下的数目。数学上可写成<a href="http://www.codecogs.com/eqnedit.php?latex=x_{n&plus;1}=rx_{n}(1-x_{n})" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{n&plus;1}=rx_{n}(1-x_{n})" title="x_{n+1}=rx_{n}(1-x_{n})" /></a>
+
+其中
+
+<a href="http://www.codecogs.com/eqnedit.php?latex=x_{n}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{n}" title="x_{n}" /></a>是介于0和1之间的数，<a href="http://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?n" title="n" /></a>表示在第年的物种数目。
+<a href="http://www.codecogs.com/eqnedit.php?latex=r" target="_blank"><img src="http://latex.codecogs.com/gif.latex?r" title="r" /></a>是正整数，是根据繁殖和饿死率而得出的数。
