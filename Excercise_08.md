@@ -103,7 +103,7 @@ r=3.5的单峰映象，在头三次迭代后的函数
 
 #### [程序1地址](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_08/Exercise_08.py)
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在不同<a href="http://www.codecogs.com/eqnedit.php?latex=F_{D}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?F_{D}" title="F_{D}" /></a>的取值情况下，<a href="http://www.codecogs.com/eqnedit.php?latex=\theta&space;-t" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\theta&space;-t" title="\theta -t" /></a>关系图如下
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在不同的<a href="http://www.codecogs.com/eqnedit.php?latex=F_{D}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?F_{D}" title="F_{D}" /></a>取值情况下，<a href="http://www.codecogs.com/eqnedit.php?latex=\theta&space;-t" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\theta&space;-t" title="\theta -t" /></a>关系图如下
  
  <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_08/figure_1-1.png?raw=true" alt="" title="" />
@@ -113,3 +113,10 @@ r=3.5的单峰映象，在头三次迭代后的函数
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_08/figure_1-2.png?raw=true" alt="" title="" />
 </div>
 
+#### [程序2地址](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_08/Exercise_08(1).py)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在不同的<a href="http://www.codecogs.com/eqnedit.php?latex=F_{D}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?F_{D}" title="F_{D}" /></a>取值情况下，倍周期的庞加莱截面图如下
+
+ <div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_08/figure_1-3.png?raw=true" alt="" title="" />
+</div>
