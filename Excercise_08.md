@@ -98,3 +98,15 @@ r=3.5的单峰映象，在头三次迭代后的函数
 * **算法探讨**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;和上一次作业一样，我们依然采用欧拉-克罗默方法求数值解以得到收敛解
+
+* **程序模拟**
+
+ [程序地址]()
+ 
+ <div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_08/figure_1-1.png?raw=true" alt="" title="" />
+</div>
+
+ <div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_08/figure_1-2.png?raw=true" alt="" title="" />
+</div>
