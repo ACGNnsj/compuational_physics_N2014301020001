@@ -129,3 +129,9 @@ r=3.5的单峰映象，在头三次迭代后的函数
  <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_08/3045942-21543eb70a7b1596.gif?raw=true" alt="" title="" />
 </div>
+
+
+* **定性结论**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果单摆做周期性运动，庞加莱截面上会有一个或数个离散点
+
