@@ -96,3 +96,8 @@ Paul Bourke作出的洛伦兹吸引子的3D图象
 <div align=center>
 <a href="http://www.codecogs.com/eqnedit.php?latex=\vec{v}_{i,\perp&space;}=\left&space;(&space;\vec{v}_{i}\cdot&space;\hat{n}&space;\right&space;)&space;\hat{n}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\vec{v}_{i,\perp&space;}=\left&space;(&space;\vec{v}_{i}\cdot&space;\hat{n}&space;\right&space;)&space;\hat{n}" title="\vec{v}_{i,\perp }=\left ( \vec{v}_{i}\cdot \hat{n} \right ) \hat{n}" /></a>
 </div>
+
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\vec{v}_{i,\parallel&space;}=\vec{v}_{i}-\vec{v}_{i,\perp&space;}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\vec{v}_{i,\parallel&space;}=\vec{v}_{i}-\vec{v}_{i,\perp&space;}" title="\vec{v}_{i,\parallel }=\vec{v}_{i}-\vec{v}_{i,\perp }" /></a>
+</div>
