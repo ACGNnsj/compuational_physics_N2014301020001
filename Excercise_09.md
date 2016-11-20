@@ -22,10 +22,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1963年，罗伦兹将他设计的数学模型，与研究发现写成影响深远的论文“决定性的非周期流”（Deterministic Nonperiodic Flow），该论文可求出无限解的数学模型，被称为“洛伦茨吸引子”（Lorenz attractor）。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1972年12月29日，罗伦兹在美国科学促进会举办的第139届年会上，发表题为“可预测性：一只蝴蝶在巴西扇动翅膀会在德克萨斯引起龙卷风吗？”的演讲[1]。
-
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1972年12月29日，罗伦兹在美国科学促进会举办的第139届年会上，发表了著名的题为“可预测性：一只蝴蝶在巴西扇动翅膀会在德克萨斯引起龙卷风吗？”的演讲。
 
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/1.gif?raw=true" alt="" title="" />
@@ -46,3 +43,6 @@
 <div align=center>
 Paul Bourke作出的洛伦兹吸引子的3D图象
 </div>
+
+* **蝴蝶效应(台球效应)**
+
