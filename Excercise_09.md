@@ -55,6 +55,5 @@ Paul Bourke作出的洛伦兹吸引子的3D图象
 </div>
 
 <div align=center>
-<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/TwoLorenzOrbits.jpg?raw=true" alt="" title="" />
-<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/LorenzCoordinatesSmall.jpg?raw=true" alt="" title="" />
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/c5b7fc24b899a901bf7055c61c950a7b0308f505.jpg?raw=true" alt="" title="" />
 </div>
