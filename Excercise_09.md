@@ -49,3 +49,12 @@ Paul Bourke作出的洛伦兹吸引子的3D图象
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1961年冬天，美国气象学家爱德华·罗伦兹在使用计算机程序来计算他所设计来模拟大气中空气流动的数学模型，在进行第二次计算时，想要省事，直接从程式的中段开始执行，并输入前一次模拟结果打印出来的数据，计算出来的结果却与第一次完全不同。经检查后发现原因是出在打印的数据是0.506，精准度只有小数后3位，但该数据正确的值为0.506127，到小数后6位。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1963年，罗伦兹发表论文“决定性的非周期流”（Deterministic Nonperiodic Flow），分析了这个效应。这篇论文后来被广泛引用。他也在另一篇期刊文章写道，“一个气象学家提及，如果这个理论被证明正确，一只海鸥扇动翅膀足以永远改变天气变化。”在以后的演讲和论文中他用了更加有诗意的蝴蝶。对于这个效应最常见的阐述是“一只蝴蝶在巴西轻拍翅膀，可以导致一个月后德克萨斯州的一场龙卷风。”
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/Sensitive-dependency.svg.png?raw=true" alt="" title="" />
+</div>
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/TwoLorenzOrbits.jpg?raw=true" alt="" title="" />
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/LorenzCoordinatesSmall.jpg?raw=true" alt="" title="" />
+</div>
