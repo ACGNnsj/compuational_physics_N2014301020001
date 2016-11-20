@@ -60,3 +60,20 @@ Paul Bourke作出的洛伦兹吸引子的3D图象
 
 ---
 ###3. 正文
+
+
+
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/maxresdefault.jpg?raw=true" alt="" title="" />
+</div>
+
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/longorbit.jpg" alt="" title="" />
+</div>
+
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/4-Figure4-1.png?raw=true" alt="" title="" />
+</div>
