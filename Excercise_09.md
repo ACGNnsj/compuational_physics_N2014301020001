@@ -113,3 +113,8 @@ Paul Bourke作出的洛伦兹吸引子的3D图象
 <div align=center>
 <a href="http://www.codecogs.com/eqnedit.php?latex=\vec{v}_{f,\parallel&space;}=\vec{v}_{f,\parallel&space;}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\vec{v}_{f,\parallel&space;}=\vec{v}_{f,\parallel&space;}" title="\vec{v}_{f,\parallel }=\vec{v}_{f,\parallel }" /></a>
 </div>
+
+* **算法探讨**
+按照课本建议，我们使用欧拉法进行数值模拟。
+
+* **程序模拟**
