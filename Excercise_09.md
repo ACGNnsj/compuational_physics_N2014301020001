@@ -61,8 +61,11 @@ Paul Bourke作出的洛伦兹吸引子的3D图象
 ---
 ###3. 正文
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;台球动力系统是一个粒子沿直线匀速运动并在边界发生镜面反射的动力系统。当粒子击中边界发生反射时它不会损失动能。台球动力系统是哈密顿理想化的台球游戏，但其边界可以是矩形等其他形状，甚至可以是多维的。
+* **台球动力系统**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;台球动力系统是一个粒子沿直线匀速运动并在边界发生镜面反射的动力系统。当粒子击中边界发生反射时它不会损失动能。台球动力系统是哈密顿理想化的台球游戏，但其边界可以是矩形等其他形状，甚至可以是多维的。台球动力系统也可以被用于研究非欧几何。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;台球动力系统拥有哈密顿系统从可积性到混沌运动的所有复杂性，无须对运动方程进行困难的积分就可确定其庞加莱截面。乔治·大卫·比尔霍夫证明一个椭圆边界的台球动力系统是可积的。
 
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/maxresdefault.jpg?raw=true" alt="" title="" />
