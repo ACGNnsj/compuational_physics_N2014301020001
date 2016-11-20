@@ -113,9 +113,36 @@ Paul Bourke作出的洛伦兹吸引子的3D图象
 </div>
 
 * **算法探讨**
+
 按照课本建议，我们使用欧拉法进行数值模拟。
 
 * **程序模拟**
+
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/Exercise_09.py)
 
 <a href="http://www.codecogs.com/eqnedit.php?latex=\bigodot&space;\alpha&space;=0.05&space;,\lambda&space;=0.06" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\bigodot&space;\alpha&space;=0.05&space;,\lambda&space;=0.06" title="\bigodot \alpha =0.05 ,\lambda =0.06" /></a>
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure3-1.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure3-2.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure3-3.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure3-4.png?raw=true)
+
+<a href="http://www.codecogs.com/eqnedit.php?latex=\bigodot&space;\alpha&space;=0.05&space;,\lambda&space;=0.06" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\bigodot&space;\alpha&space;=0.05&space;,\lambda&space;=0.06" title="\bigodot \alpha =0.01 ,\lambda =0.051" /></a>
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure1-1.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure1-2.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure1-3.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure1-4.png?raw=true)
+
+<a href="http://www.codecogs.com/eqnedit.php?latex=\bigodot&space;\alpha&space;=0.05&space;,\lambda&space;=0.06" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\bigodot&space;\alpha&space;=0.05&space;,\lambda&space;=0.06" title="\bigodot \alpha =0.001 ,\lambda =0.000479" /></a>
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure2-1.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure2-2.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure2-3.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure2-4.png?raw=true)
+
+* **结果讨论**
+
+1.可以看出相同α下，不同的λ可能导致不同的李雅普诺夫指数
+
+2.α越小曲线越密集，这说明系统经历了更多状态，可以预见，当α足够大时混沌现象可能会消失
