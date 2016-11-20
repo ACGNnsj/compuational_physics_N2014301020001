@@ -29,7 +29,8 @@
 
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/1.jpg?raw=true" alt="" title="" />
-Paul Bourke作出的洛伦兹吸引子的3D图象
 </div>
 
-
+<div align=center>
+Paul Bourke作出的洛伦兹吸引子的3D图象
+</div>
