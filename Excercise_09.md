@@ -7,8 +7,6 @@
 
 3.30. Investigate the Lyapunov exponent of the stadium billiard for several values of <a href="http://www.codecogs.com/eqnedit.php?latex=\alpha" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\alpha" title="\alpha" /></a>. You can do this qualitatively by examining the behavior for only one set of initial conditions for each value of  you consider, or more quantitatively by averaging over a range of initial conditions for each value of <a href="http://www.codecogs.com/eqnedit.php?latex=\alpha" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\alpha" title="\alpha" /></a>.
 
-3.31. Study the behavior for other types of tables. One interesting possibility is a square table with a circular interior wall located either in the center, or slightly off-center. Another possibility is an elliptical table.
-
 
 ---
 ###2. 背景
@@ -118,3 +116,6 @@ Paul Bourke作出的洛伦兹吸引子的3D图象
 按照课本建议，我们使用欧拉法进行数值模拟。
 
 * **程序模拟**
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/Exercise_09.py)
+
+<a href="http://www.codecogs.com/eqnedit.php?latex=\bigodot&space;\alpha&space;=0.05&space;,\lambda&space;=0.06" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\bigodot&space;\alpha&space;=0.05&space;,\lambda&space;=0.06" title="\bigodot \alpha =0.05 ,\lambda =0.06" /></a>
