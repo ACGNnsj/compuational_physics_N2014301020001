@@ -21,3 +21,5 @@
 
 
 ![IMAGE](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/1.gif?raw=true)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/Lorenz_attractor_boxed.svg?raw=true)
