@@ -120,21 +120,21 @@ Paul Bourke作出的洛伦兹吸引子的3D图象
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/Exercise_09.py)
 
-<a href="http://www.codecogs.com/eqnedit.php?latex=\bigodot&space;\alpha&space;=0.05&space;,\lambda&space;=0.06" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\bigodot&space;\alpha&space;=0.05&space;,\lambda&space;=0.06" title="\bigodot \alpha =0.05 ,\lambda =0.06" /></a>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\odot&space;\alpha&space;=0.05,\lambda&space;\approx&space;0.01\sim&space;0.015" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\odot&space;\alpha&space;=0.05,\lambda&space;\approx&space;0.01\sim&space;0.015" title="\odot \alpha =0.05,\lambda \approx 0.01\sim 0.015" /></a>
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure3-1.png?raw=true)
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure3-2.png?raw=true)
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure3-3.png?raw=true)
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure3-4.png?raw=true)
 
-<a href="http://www.codecogs.com/eqnedit.php?latex=\bigodot&space;\alpha&space;=0.05&space;,\lambda&space;=0.06" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\bigodot&space;\alpha&space;=0.01&space;,\lambda&space;=0.051" title="\bigodot \alpha =0.01 ,\lambda =0.051" /></a>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\odot&space;\alpha&space;=0.01,\lambda&space;\approx&space;0.006\sim&space;0.012" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\odot&space;\alpha&space;=0.01,\lambda&space;\approx&space;0.006\sim&space;0.012" title="\odot \alpha =0.01,\lambda \approx 0.006\sim 0.012" /></a>
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure1-1.png?raw=true)
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure1-2.png?raw=true)
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure1-3.png?raw=true)
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure1-4.png?raw=true)
 
-<a href="http://www.codecogs.com/eqnedit.php?latex=\bigodot&space;\alpha&space;=0.05&space;,\lambda&space;=0.06" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\bigodot&space;\alpha&space;=0.001&space;,\lambda&space;=0.000479" title="\bigodot \alpha =0.001 ,\lambda =0.000479" /></a>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\odot&space;\alpha&space;=0.001,\lambda&space;\approx&space;0.004\sim&space;0.006" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\odot&space;\alpha&space;=0.001,\lambda&space;\approx&space;0.004\sim&space;0.006" title="\odot \alpha =0.001,\lambda \approx 0.004\sim 0.006" /></a>
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure2-1.png?raw=true)
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_09/figure2-2.png?raw=true)
