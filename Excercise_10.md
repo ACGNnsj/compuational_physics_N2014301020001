@@ -152,3 +152,8 @@
 * **程序模拟**
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/Exercise_10.py)
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_1-1.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_1-2.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_1-3.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_1-4.png?raw=true)
