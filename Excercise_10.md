@@ -157,3 +157,8 @@
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_1-2.png?raw=true)
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_1-3.png?raw=true)
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_1-4.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_1-5.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_1-6.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_1-7.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_1-8.png?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_1-9.png?raw=true)
