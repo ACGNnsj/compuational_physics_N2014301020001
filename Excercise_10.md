@@ -22,6 +22,10 @@
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5edce25c42d4dd1a06c3578ef827db91a7062925" alt="" title="" />
 </div>
 
+<div align=center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/NewtonsLawOfUniversalGravitation.svg/400px-NewtonsLawOfUniversalGravitation.svg.png" alt="" title="" />
+</div>
+
 ②径向谐振子势：
 
 <div align=center>
