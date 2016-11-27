@@ -14,8 +14,10 @@
 ###2. 背景
 * **伯特兰定理**
 
-在经典力学里，伯特兰定理阐明，只有两种位势<img src="http://latex.codecogs.com/gif.latex?V" alt="" title="" />可以给出闭合轨道：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在经典力学里，伯特兰定理阐明，只有两种位势<img src="http://latex.codecogs.com/gif.latex?V" alt="" title="" />可以给出闭合轨道：
 
-平方反比有心力给出的连心势，像引力势或静电势，以方程表示为
+①平方反比有心力给出的连心势，像引力势或静电势，以方程表示为
 
-![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/5edce25c42d4dd1a06c3578ef827db91a7062925)
+<div align=center>
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5edce25c42d4dd1a06c3578ef827db91a7062925" alt="" title="" />
+</div>
