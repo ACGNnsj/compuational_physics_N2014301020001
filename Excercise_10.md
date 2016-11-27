@@ -27,3 +27,5 @@
 <div align=center>
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e78eabd2ab0a83cea507a587827b3b792a342a24" alt="" title="" />
 </div>
+
+其中， r是径向坐标， k是正值常数。假若物体从某位置移动，经过一段路径后，又回到原先位置，则称此路径为闭合轨道。
