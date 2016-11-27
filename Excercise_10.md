@@ -165,6 +165,8 @@
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/Exercise_10(1).py)
 
+<a href="http://www.codecogs.com/eqnedit.php?latex=e_{1}=0.15,e_{2}=0.45,e_{3}=0.85" target="_blank"><img src="http://latex.codecogs.com/gif.latex?e_{1}=0.15,e_{2}=0.45,e_{3}=0.85" title="e_{1}=0.15,e_{2}=0.45,e_{3}=0.85" /></a>
+
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_2-1.png?raw=true" alt="" title="" />
 </div>
