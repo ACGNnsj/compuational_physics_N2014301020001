@@ -162,3 +162,9 @@
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_1-7.png?raw=true)
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_1-8.png?raw=true)
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_1-9.png?raw=true)
+
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/Exercise_10(1).py)
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_2-1.png?raw=true" alt="" title="" />
+</div>
