@@ -33,7 +33,7 @@
 </div>
 
 <div align=center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Simple_harmonic_oscillator.gif" alt="" title="" />
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/2016112800022516_0.gif?raw=true" alt="" title="" />
 </div>
 
 其中， r是径向坐标， k是正值常数。假若物体从某位置移动，经过一段路径后，又回到原先位置，则称此路径为闭合轨道。
