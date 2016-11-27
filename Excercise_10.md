@@ -21,3 +21,9 @@
 <div align=center>
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5edce25c42d4dd1a06c3578ef827db91a7062925" alt="" title="" />
 </div>
+
+②径向谐振子势：
+
+<div align=center>
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e78eabd2ab0a83cea507a587827b3b792a342a24" alt="" title="" />
+</div>
