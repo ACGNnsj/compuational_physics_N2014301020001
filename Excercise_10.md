@@ -170,3 +170,12 @@
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/figure_2-1.png?raw=true" alt="" title="" />
 </div>
+
+
+* **结果讨论**
+
+①由模拟结果可知，e为0即轨道为正圆时，β的改变不影响行星的运动轨迹；随着离心率e的增大，行星运动的准周期变长
+
+②此外，我们可以发现当e=0.8时，我们所得图像有明显异样，这可能是由于程序计算精度不足所致
+
+③模拟结果验证了进动角速度为一常量，且随离心率e增大而减小
