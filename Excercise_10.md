@@ -144,3 +144,11 @@
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/10.png?raw=true" alt="" title="" />
 </div>
+
+* **算法探讨**
+
+根据课本建议，我们采用欧拉—— 克罗姆方法进行数值模拟。
+
+* **程序模拟**
+
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/Exercise_10.py)
