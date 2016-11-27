@@ -13,6 +13,9 @@
 ---
 ###2. 背景
 * **伯特兰定理**
+
 在经典力学里，伯特兰定理阐明，只有两种位势 {\displaystyle V} V可以给出闭合轨道
+
 平方反比有心力给出的连心势，像引力势或静电势，以方程表示为
-![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_10/1.svg)
+
+![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/5edce25c42d4dd1a06c3578ef827db91a7062925)
