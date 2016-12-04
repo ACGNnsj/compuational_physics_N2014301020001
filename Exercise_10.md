@@ -1,4 +1,4 @@
-﻿# Excercise_10
+# Exercise_10
 
 
 ---
