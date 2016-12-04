@@ -25,7 +25,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三体问题周期解在欧拉与拉格朗日之后就就进展很少。20世纪70年代，Roger Broucke和Michel Hénon用计算机进行模拟，得到了更多结果。现在，这些周期解上被分为3族。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013年，这方面的研究获得又一个突破性进展，物理学家Milovan Suvakov和Veljko DmitraSinovic在《物理评论快报》（Phys. Rev. Lett. 110, 114301 (2013)）上发表文章，宣布发现13族新的特解，三体问题特解的族数直接从3族扩充到16族。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013年，这方面的研究获得又一个突破性进展，物理学家Milovan Suvakov和Veljko DmitraSinovic在《物理评论快报》（[Phys. Rev. Lett. 110, 114301 (2013)](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.114301)）上发表文章，宣布发现13族新的特解，三体问题特解的族数直接从3族扩充到16族。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面展示了三体运动的特解其中3族曲线，左侧为抽象空间中的轨迹，右侧为对应的在真实空间中的轨迹。
 
