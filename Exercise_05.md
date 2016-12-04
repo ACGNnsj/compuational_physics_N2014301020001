@@ -1,4 +1,4 @@
-# Excercise_05
+# Exercise_05
 ***
 
 * 作业2.9
