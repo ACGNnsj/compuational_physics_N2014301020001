@@ -25,6 +25,18 @@
 
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/sleptir.gif?raw=true)![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/rleptir.jpg?raw=true)
 
+<div align=center>
+蝴蝶类Ⅰ
+</div>
+
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/skonjic.gif?raw=true)![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/rkonjic.jpg?raw=true)
 
+<div align=center>
+蜻蜓类
+</div>
+
 ![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/sleptir4.gif?raw=true)![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/rleptir4.jpg?raw=true)
+
+<div align=center>
+蝴蝶类Ⅳ
+</div>
