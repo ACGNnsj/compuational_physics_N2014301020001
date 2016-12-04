@@ -170,8 +170,17 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/Exercise_11(6).py)
 
-> 图7: 设置Δθ从0.0001到0.1
+> 图7: 对于圆轨道，设置Δθ从0.0001到0.1
 
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-7.png?raw=true" alt="" title="" />
 </div>
+
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/Exercise_11(7).py)
+
+> 图7: 对于椭圆轨道，设置Δθ从0.0001到0.1
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-8.png?raw=true" alt="" title="" />
+</div>
+
