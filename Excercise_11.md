@@ -97,3 +97,9 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 <div align=center>
 <a href="http://www.codecogs.com/eqnedit.php?latex=\frac{d\vec{\omega&space;}}{dt}=\frac{\vec{\tau&space;_{1}}&plus;\vec{\tau&space;_{2}}}{2}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{d\vec{\omega&space;}}{dt}=\frac{\vec{\tau&space;_{1}}&plus;\vec{\tau&space;_{2}}}{2}" title="\frac{d\vec{\omega }}{dt}=\frac{\vec{\tau _{1}}+\vec{\tau _{2}}}{2}" /></a>
 </div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;质心系中，质点都绕质心旋转，其相对质心的转动惯量为
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=I=m_{1}\left&space;|&space;r_{1}&space;\right&space;|^{2}&plus;m_{2}\left&space;|&space;r_{2}&space;\right&space;|^{2}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?I=m_{1}\left&space;|&space;r_{1}&space;\right&space;|^{2}&plus;m_{2}\left&space;|&space;r_{2}&space;\right&space;|^{2}" title="I=m_{1}\left | r_{1} \right |^{2}+m_{2}\left | r_{2} \right |^{2}" /></a>
+</div>
