@@ -23,6 +23,4 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;魏尔斯特拉斯并不知道他自己的预测有多准确。在庞加莱的论文中，他描述了例如同宿点（homoclinic points）之类的新思想。这些概念在1890年的Acta Mathematica备忘录中出版，后来该书在编辑途中被发现一个理论上的错误，然而该错误实际上导致了庞加莱一些进一步的发现，它们现在被视为混沌理论的开端。
 
-![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/sleptir.gif?raw=true)
-
-![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/rleptir.jpg?raw=true)
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/sleptir.gif?raw=true)![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/rleptir.jpg?raw=true)
