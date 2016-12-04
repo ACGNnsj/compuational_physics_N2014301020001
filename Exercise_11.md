@@ -162,8 +162,16 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/Exercise_11(5).py)
 
-> 图3: 椭圆轨道下土卫七自转的相图如下
+> 图6: 椭圆轨道下土卫七自转的相图如下
 
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-6.png?raw=true" alt="" title="" />
+</div>
+
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/Exercise_11(6).py)
+
+> 图7: 设置Δθ从0.0001到0.1
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-7.png?raw=true" alt="" title="" />
 </div>
