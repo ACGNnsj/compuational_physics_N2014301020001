@@ -136,3 +136,10 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 
 **θ的陡增只是因为我们人为的重置以保证其在-π到π之间（和我们在混沌摆中做的一样），从图1和图2可知，如果公转轨道是圆轨道，土卫七的自转并不会出现混沌。**
 
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/Exercise_11(2).py)
+
+> 图3: 
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-3.png?raw=true" alt="" title="" />
+</div>
