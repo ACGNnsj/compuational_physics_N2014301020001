@@ -25,4 +25,4 @@
 
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/smoljac.gif?raw=true" alt="" title="" />
 
-<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/rmoljac.gif?raw=true" alt="" title="" />
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/rmoljac.jpg?raw=true" alt="" title="" />
