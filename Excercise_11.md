@@ -87,3 +87,7 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;质点所受引力相对系统质心的力矩为
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\vec{\tau&space;_{i}}=\left&space;[&space;\left&space;(&space;x_{i}-x_{c}&space;\right&space;)\hat{i}&plus;\left&space;(&space;y_{i}-y_{c}&space;\right&space;)\hat{j}&space;\right&space;]\times&space;\vec{F_{i}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\vec{\tau&space;_{i}}=\left&space;[&space;\left&space;(&space;x_{i}-x_{c}&space;\right&space;)\hat{i}&plus;\left&space;(&space;y_{i}-y_{c}&space;\right&space;)\hat{j}&space;\right&space;]\times&space;\vec{F_{i}}" title="\vec{\tau _{i}}=\left [ \left ( x_{i}-x_{c} \right )\hat{i}+\left ( y_{i}-y_{c} \right )\hat{j} \right ]\times \vec{F_{i}}" /></a>
+</div>
