@@ -103,3 +103,9 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 <div align=center>
 <a href="http://www.codecogs.com/eqnedit.php?latex=I=m_{1}\left&space;|&space;r_{1}&space;\right&space;|^{2}&plus;m_{2}\left&space;|&space;r_{2}&space;\right&space;|^{2}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?I=m_{1}\left&space;|&space;r_{1}&space;\right&space;|^{2}&plus;m_{2}\left&space;|&space;r_{2}&space;\right&space;|^{2}" title="I=m_{1}\left | r_{1} \right |^{2}+m_{2}\left | r_{2} \right |^{2}" /></a>
 </div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;代入化简得
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{d\omega&space;}{dt}\approx&space;-\frac{3GM_{Sat}}{r_{c}^{5}}\left&space;(&space;x_{c}sin\theta&space;-y_{c}cos\theta&space;\right&space;)\left&space;(&space;x_{c}cos\theta&space;&plus;y_{c}sin\theta&space;\right&space;)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{d\omega&space;}{dt}\approx&space;-\frac{3GM_{Sat}}{r_{c}^{5}}\left&space;(&space;x_{c}sin\theta&space;-y_{c}cos\theta&space;\right&space;)\left&space;(&space;x_{c}cos\theta&space;&plus;y_{c}sin\theta&space;\right&space;)" title="\frac{d\omega }{dt}\approx -\frac{3GM_{Sat}}{r_{c}^{5}}\left ( x_{c}sin\theta -y_{c}cos\theta \right )\left ( x_{c}cos\theta +y_{c}sin\theta \right )" /></a>
+</div>
