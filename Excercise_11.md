@@ -85,3 +85,5 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 <div align=center>
 <a href="http://www.codecogs.com/eqnedit.php?latex=\vec{F_{i}}=-\frac{GM_{Sat}m_{i}}{r_{i}^{3}}\left&space;(&space;x_{i}\hat{i}&plus;y_{i}\hat{j}&space;\right&space;)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\vec{F_{i}}=-\frac{GM_{Sat}m_{i}}{r_{i}^{3}}\left&space;(&space;x_{i}\hat{i}&plus;y_{i}\hat{j}&space;\right&space;)" title="\vec{F_{i}}=-\frac{GM_{Sat}m_{i}}{r_{i}^{3}}\left ( x_{i}\hat{i}+y_{i}\hat{j} \right )" /></a>
 </div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;质点所受引力相对系统质心的力矩为
