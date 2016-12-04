@@ -123,12 +123,12 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 > 图1: <a href="http://www.codecogs.com/eqnedit.php?latex=v_{0}=2\pi&space;,\theta&space;_{0}=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?v_{0}=2\pi&space;,\theta&space;_{0}=0" title="v_{0}=2\pi ,\theta _{0}=0" /></a>，故而有离心率<a href="http://www.codecogs.com/eqnedit.php?latex=e=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?e=0" title="e=0" /></a>即轨道为圆轨道。
 
 <div align=center>
-<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-1.png?raw=true" alt="" title="" />，故而有离心率<a href="http://www.codecogs.com/eqnedit.php?latex=e=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?e=0" title="e=0" /></a>即轨道为圆轨道。
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-1.png?raw=true" alt="" title="" />
 </div>
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/Exercise_11(1).py)
 
-> 图2: <a href="http://www.codecogs.com/eqnedit.php?latex=v_{0}=2\pi&space;,\omega&space;_{0}=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?v_{0}=2\pi&space;,\omega&space;_{0}=0" title="v_{0}=2\pi ,\omega _{0}=0" /></a>
+> 图2: <a href="http://www.codecogs.com/eqnedit.php?latex=v_{0}=2\pi&space;,\omega&space;_{0}=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?v_{0}=2\pi&space;,\omega&space;_{0}=0" title="v_{0}=2\pi ,\omega _{0}=0" /></a>，故而有离心率<a href="http://www.codecogs.com/eqnedit.php?latex=e=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?e=0" title="e=0" /></a>即轨道为圆轨道。
 
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-2.png?raw=true" alt="" title="" />
