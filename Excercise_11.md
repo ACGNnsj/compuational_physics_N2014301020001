@@ -80,3 +80,8 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 
 * **理论推导**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为了模拟土卫七的运动，我们需要先对问题做一些简化：土卫七由两个被无质量杠固连的质点组成。每一质点所受引力为
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\vec{F_{i}}=-\frac{GM_{Sat}m_{i}}{r_{i}^{3}}\left&space;(&space;x_{i}\hat{i}&plus;y_{i}\hat{j}&space;\right&space;)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\vec{F_{i}}=-\frac{GM_{Sat}m_{i}}{r_{i}^{3}}\left&space;(&space;x_{i}\hat{i}&plus;y_{i}\hat{j}&space;\right&space;)" title="\vec{F_{i}}=-\frac{GM_{Sat}m_{i}}{r_{i}^{3}}\left ( x_{i}\hat{i}+y_{i}\hat{j} \right )" /></a>
+</div>
