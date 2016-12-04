@@ -91,3 +91,9 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 <div align=center>
 <a href="http://www.codecogs.com/eqnedit.php?latex=\vec{\tau&space;_{i}}=\left&space;[&space;\left&space;(&space;x_{i}-x_{c}&space;\right&space;)\hat{i}&plus;\left&space;(&space;y_{i}-y_{c}&space;\right&space;)\hat{j}&space;\right&space;]\times&space;\vec{F_{i}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\vec{\tau&space;_{i}}=\left&space;[&space;\left&space;(&space;x_{i}-x_{c}&space;\right&space;)\hat{i}&plus;\left&space;(&space;y_{i}-y_{c}&space;\right&space;)\hat{j}&space;\right&space;]\times&space;\vec{F_{i}}" title="\vec{\tau _{i}}=\left [ \left ( x_{i}-x_{c} \right )\hat{i}+\left ( y_{i}-y_{c} \right )\hat{j} \right ]\times \vec{F_{i}}" /></a>
 </div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又有
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{d\vec{\omega&space;}}{dt}=\frac{\vec{\tau&space;_{1}}&plus;\vec{\tau&space;_{2}}}{2}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{d\vec{\omega&space;}}{dt}=\frac{\vec{\tau&space;_{1}}&plus;\vec{\tau&space;_{2}}}{2}" title="\frac{d\vec{\omega }}{dt}=\frac{\vec{\tau _{1}}+\vec{\tau _{2}}}{2}" /></a>
+</div>
