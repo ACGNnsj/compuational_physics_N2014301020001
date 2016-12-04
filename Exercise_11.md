@@ -138,7 +138,7 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/Exercise_11(2).py)
 
-> 图3: 圆轨道下土卫七自转的庞加莱截面图如下
+> 图3: 圆轨道下土卫七自转的相图如下
 
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-3.png?raw=true" alt="" title="" />
