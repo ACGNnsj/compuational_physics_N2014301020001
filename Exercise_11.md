@@ -146,8 +146,12 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/Exercise_11(3).py)
 
-> 图4: <a href="http://www.codecogs.com/eqnedit.php?latex=v_{0}=5&space;,\omega&space;_{0}=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?v_{0}=5&space;,\omega&space;_{0}=0" title="v_{0}=5 ,\omega _{0}=0" /></a>，从而离心率<a href="http://www.codecogs.com/eqnedit.php?latex=0<e&space;<&space;1" target="_blank"><img src="http://latex.codecogs.com/gif.latex?0<e&space;<&space;1" title="0<e < 1" /></a>即公转轨道是椭圆轨道
+> 图4: <a href="http://www.codecogs.com/eqnedit.php?latex=v_{0}=5&space;,\theta&space;_{0}=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?v_{0}=5&space;,\theta&space;_{0}=0" title="v_{0}=5 ,\theta _{0}=0" /></a>，从而离心率<a href="http://www.codecogs.com/eqnedit.php?latex=0<e&space;<&space;1" target="_blank"><img src="http://latex.codecogs.com/gif.latex?0<e&space;<&space;1" title="0<e < 1" /></a>即公转轨道是椭圆轨道
 
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-4.png?raw=true" alt="" title="" />
 </div>
+
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/Exercise_11(4).py)
+
+> 图4: <a href="http://www.codecogs.com/eqnedit.php?latex=v_{0}=5&space;,\omega&space;_{0}=0" target="_blank"><img src="http://latex.codecogs.com/gif.latex?v_{0}=5&space;,\omega&space;_{0}=0" title="v_{0}=5 ,\omega _{0}=0" /></a>，从而离心率<a href="http://www.codecogs.com/eqnedit.php?latex=0<e&space;<&space;1" target="_blank"><img src="http://latex.codecogs.com/gif.latex?0<e&space;<&space;1" title="0<e < 1" /></a>即公转轨道是椭圆轨道
