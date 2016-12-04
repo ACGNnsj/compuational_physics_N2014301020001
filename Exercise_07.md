@@ -1,4 +1,4 @@
-# Excercise_07
+# Exercise_07
 ***
 
 #### Exercise 3.12
