@@ -74,3 +74,9 @@
 <div align=center>
 Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 </div>
+
+---
+###3. 正文
+
+* **理论推导**
+
