@@ -1,4 +1,4 @@
-# Excercise_06
+# Exercise_06
 ***
 
 作业2.10
