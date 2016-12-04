@@ -109,3 +109,13 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 <div align=center>
 <a href="http://www.codecogs.com/eqnedit.php?latex=\frac{d\omega&space;}{dt}\approx&space;-\frac{3GM_{Sat}}{r_{c}^{5}}\left&space;(&space;x_{c}sin\theta&space;-y_{c}cos\theta&space;\right&space;)\left&space;(&space;x_{c}cos\theta&space;&plus;y_{c}sin\theta&space;\right&space;)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{d\omega&space;}{dt}\approx&space;-\frac{3GM_{Sat}}{r_{c}^{5}}\left&space;(&space;x_{c}sin\theta&space;-y_{c}cos\theta&space;\right&space;)\left&space;(&space;x_{c}cos\theta&space;&plus;y_{c}sin\theta&space;\right&space;)" title="\frac{d\omega }{dt}\approx -\frac{3GM_{Sat}}{r_{c}^{5}}\left ( x_{c}sin\theta -y_{c}cos\theta \right )\left ( x_{c}cos\theta +y_{c}sin\theta \right )" /></a>
 </div>
+
+该式是我们进行数值模拟的依据
+
+* **算法探讨**
+
+我们采用欧拉—— 克罗姆方法进行数值模拟。
+
+* **程序模拟**
+
+[查看程序]
