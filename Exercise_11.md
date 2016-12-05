@@ -184,3 +184,11 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-8.png?raw=true" alt="" title="" />
 </div>
 
+**下面我们按题目要求不限制θ范围将如下代码移除**
+
+```python
+        while self.theta[i + 1] > math.pi:
+            self.theta[i + 1] = self.theta[i + 1] - 2 * math.pi
+        while self.theta[i + 1] <= -math.pi:
+            self.theta[i + 1] = self.theta[i + 1] + 2 * math.pi
+```
