@@ -116,7 +116,7 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 
 我们采用欧拉—— 克罗姆方法进行数值模拟。
 
-有如下递推式
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有如下递推式
 
 <div align=center>
 <a href="http://www.codecogs.com/eqnedit.php?latex=v_{c,x,i&plus;1}=v_{c,x,i}-\frac{4\pi^2x_{c,i}}{r_i^3}\Delta&space;t" target="_blank"><img src="http://latex.codecogs.com/gif.latex?v_{c,x,i&plus;1}=v_{c,x,i}-\frac{4\pi^2x_{c,i}}{r_i^3}\Delta&space;t" title="v_{c,x,i+1}=v_{c,x,i}-\frac{4\pi^2x_{c,i}}{r_i^3}\Delta t" /></a>
