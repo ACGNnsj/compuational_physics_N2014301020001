@@ -178,7 +178,7 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/Exercise_11(7).py)
 
-> 图7: 对于椭圆轨道，设置Δθ从0.0001到0.1
+> 图8: 对于椭圆轨道，设置Δθ从0.0001到0.1
 
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-8.png?raw=true" alt="" title="" />
@@ -192,3 +192,17 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
         while self.theta[i + 1] <= -math.pi:
             self.theta[i + 1] = self.theta[i + 1] + 2 * math.pi
 ```
+
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/Exercise_11(8).py)
+
+> 图9: 对于圆轨道，不限制θ，并且时间范围为[0, 10yr]
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-9.png?raw=true" alt="" title="" />
+</div>
+
+> 图10: 对于圆轨道，不限制θ，并且时间范围为[0, 100yr]
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-10.png?raw=true" alt="" title="" />
+</div>
