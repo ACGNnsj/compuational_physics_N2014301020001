@@ -116,6 +116,24 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 
 我们采用欧拉—— 克罗姆方法进行数值模拟。
 
+有如下递推式
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=v_{c,x,i&plus;1}=v_{c,x,i}-\frac{4\pi^2x_{c,i}}{r_i^3}\Delta&space;t" target="_blank"><img src="http://latex.codecogs.com/gif.latex?v_{c,x,i&plus;1}=v_{c,x,i}-\frac{4\pi^2x_{c,i}}{r_i^3}\Delta&space;t" title="v_{c,x,i+1}=v_{c,x,i}-\frac{4\pi^2x_{c,i}}{r_i^3}\Delta t" /></a>
+</div>
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=x_{c,i&plus;1}=x_{c,i}&plus;v_{c,x,i&plus;1}\Delta&space;t" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{c,i&plus;1}=x_{c,i}&plus;v_{c,x,i&plus;1}\Delta&space;t" title="x_{c,i+1}=x_{c,i}+v_{c,x,i+1}\Delta t" /></a>
+</div>
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=v_{c,y,i&plus;1}=v_{c,y,i}-\frac{4\pi^2y_{c,i}}{r_i^3}\Delta&space;t" target="_blank"><img src="http://latex.codecogs.com/gif.latex?v_{c,y,i&plus;1}=v_{c,y,i}-\frac{4\pi^2y_{c,i}}{r_i^3}\Delta&space;t" title="v_{c,y,i+1}=v_{c,y,i}-\frac{4\pi^2y_{c,i}}{r_i^3}\Delta t" /></a>
+</div>
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=y_{c,i&plus;1}=y_{c,i}&plus;v_{c,y,i&plus;1}\Delta&space;t" target="_blank"><img src="http://latex.codecogs.com/gif.latex?y_{c,i&plus;1}=y_{c,i}&plus;v_{c,y,i&plus;1}\Delta&space;t" title="y_{c,i+1}=y_{c,i}+v_{c,y,i+1}\Delta t" /></a>
+</div>
+
 * **程序模拟**
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/Exercise_11.py)
