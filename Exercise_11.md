@@ -247,3 +247,8 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 2.整体来看，其李雅普诺夫指数随离心率e增大而增大。
 
 3.通过取消对θ的限制，原来Δθ-t图中离散的点消失了，θ也成了t的连续函数。
+
+---
+###5. 鸣谢
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蔡老师，维基百科，余康同学，田原同学等
