@@ -206,3 +206,18 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-10.png?raw=true" alt="" title="" />
 </div>
+
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/Exercise_11(9).py)
+
+> 图11: 对于椭圆轨道，不限制θ，并且时间范围为[0, 10yr]
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-11.png?raw=true" alt="" title="" />
+</div>
+
+> 图12: 对于椭圆轨道，不限制θ，并且时间范围为[0, 100yr]
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-12.png?raw=true" alt="" title="" />
+</div>
+
