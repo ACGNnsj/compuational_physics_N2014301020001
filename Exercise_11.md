@@ -221,3 +221,5 @@ Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Excercise_11/figure_1-12.png?raw=true" alt="" title="" />
 </div>
 
+---
+###4. 结果讨论
