@@ -60,7 +60,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电场是存在于电荷周围能传递电荷与电荷之间相互作用的物理场。在电荷周围总有电场存在；同时电场对场中其他电荷发生力的作用。观察者相对于电荷静止时所观察到的场称为静电场。如果电荷相对于观察者运动，则除静电场外，还有磁场出现。除了电荷以外，随着时间流易而变化的磁场也可以生成电场，这种电场叫做涡旋电场或感应电场。迈克尔·法拉第最先提出电场的概念。
 
-![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/img874.png?raw=true)![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/250px-VFPt_metal_ball_grounded.svg.png?raw=true)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/img874.png?raw=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/250px-VFPt_metal_ball_grounded.svg.png?raw=true)
 
 
 
