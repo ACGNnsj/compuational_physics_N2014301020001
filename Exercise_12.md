@@ -132,29 +132,43 @@
 
 * Problem 5.3
 
-[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-3.py)
+问题示意图
 
 <div align=center>
-<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_2-1.png?raw=true" alt="" title="" />
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/6b3a46de88b2a64e.png?raw=true" alt="" title="" />
 </div>
+
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-3.py)
+
+等势线如下
 
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_2-2.png?raw=true" alt="" title="" />
 </div>
 
+等势面如下
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_2-1.png?raw=true" alt="" title="" />
+</div>
+
+俯瞰图如下
+
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_2-3.png?raw=true" alt="" title="" />
 </div>
 
+电场线如下
 
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/2282b7fdf557fb6c.png?raw=true" alt="" title="" />
 </div>
 
+放大后局部电场线
+
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_2-4.png?raw=true" alt="" title="" />
 </div>
-
 
 ---
 ###4. 结果讨论
