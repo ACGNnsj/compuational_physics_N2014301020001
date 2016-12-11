@@ -82,6 +82,15 @@
 
 * **理论推导**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在三维直角坐标系，电势的泊松方程可以写成
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;^&space;2V}{\partial&space;x&space;^&space;2}&space;&plus;&space;\frac{\partial&space;^&space;2V}{\partial&space;y&space;^&space;2}&space;&plus;&space;\frac{\partial&space;^&space;2V}{\partial&space;z&space;^&space;2}&space;=&space;0." target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\partial&space;^&space;2V}{\partial&space;x&space;^&space;2}&space;&plus;&space;\frac{\partial&space;^&space;2V}{\partial&space;y&space;^&space;2}&space;&plus;&space;\frac{\partial&space;^&space;2V}{\partial&space;z&space;^&space;2}&space;=&space;0." title="\frac{\partial ^ 2V}{\partial x ^ 2} + \frac{\partial ^ 2V}{\partial y ^ 2} + \frac{\partial ^ 2V}{\partial z ^ 2} = 0." /></a>
+</div>
+
+
+
+
 
 
 
