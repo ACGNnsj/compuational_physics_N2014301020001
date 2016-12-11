@@ -123,9 +123,14 @@ SOR法则更加先进
 </div>
 
 <div align=center>
-<a href="http://www.codecogs.com/eqnedit.php?latex=\Delta&space;V(i,&space;j)&space;=&space;V&space;^&space;{*}(i,&space;j)&space;-&space;V_{old}(i,&space;j)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\Delta&space;V(i,&space;j)&space;=&space;V&space;^&space;{*}(i,&space;j)&space;-&space;V_{old}(i,&space;j)" title="\Delta V(i, j) = V ^ {*}(i, j) - V_{old}(i, j)" /></a>
+<a href="http://www.codecogs.com/eqnedit.php?latex=V_{new}(i,&space;j)&space;=&space;\alpha&space;\Delta&space;V(i,&space;j)&space;&plus;&space;V_{old}(i,&space;j)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?V_{new}(i,&space;j)&space;=&space;\alpha&space;\Delta&space;V(i,&space;j)&space;&plus;&space;V_{old}(i,&space;j)" title="V_{new}(i, j) = \alpha \Delta V(i, j) + V_{old}(i, j)" /></a>
 </div>
 
+其中
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\alpha&space;\approx&space;\frac{2}{1&space;&plus;&space;\pi/L}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\alpha&space;\approx&space;\frac{2}{1&space;&plus;&space;\pi/L}" title="\alpha \approx \frac{2}{1 + \pi/L}" /></a>
+</div>
 
 * **程序模拟**
 
