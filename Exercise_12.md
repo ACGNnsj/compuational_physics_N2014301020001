@@ -23,7 +23,7 @@
 <a href="http://www.codecogs.com/eqnedit.php?latex=\Delta&space;\varphi&space;=f" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\Delta&space;\varphi&space;=f" title="\Delta \varphi =f" /></a>
 </div>
 
-在这里<a href="http://www.codecogs.com/eqnedit.php?latex=\Delta" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\Delta" title="\Delta" /></a>代表的是拉普拉斯算子，而<a href="http://www.codecogs.com/eqnedit.php?latex=f" target="_blank"><img src="http://latex.codecogs.com/gif.latex?f" title="f" /></a>和<a href="http://www.codecogs.com/eqnedit.php?latex=\varphi" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\varphi" title="\varphi" /></a>可以是在流形上的实数或复数值的函数。当流形属于欧几里得空间，而拉普拉斯算子通常表示为!(image)[https://wikimedia.org/api/rest_v1/media/math/render/svg/4740f625d7c5f48b7ec29e679a9c13bd10bc5405]，因此泊松方程通常写成
+在这里<a href="http://www.codecogs.com/eqnedit.php?latex=\Delta" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\Delta" title="\Delta" /></a>代表的是拉普拉斯算子，而<a href="http://www.codecogs.com/eqnedit.php?latex=f" target="_blank"><img src="http://latex.codecogs.com/gif.latex?f" title="f" /></a>和<a href="http://www.codecogs.com/eqnedit.php?latex=\varphi" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\varphi" title="\varphi" /></a>可以是在流形上的实数或复数值的函数。当流形属于欧几里得空间，而拉普拉斯算子通常表示为![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/4740f625d7c5f48b7ec29e679a9c13bd10bc5405)，因此泊松方程通常写成
 
 <div align=center>
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e66b1762dad29817722df3c923e9e6ec29ba1b89" alt="" title="" />
