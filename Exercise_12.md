@@ -36,7 +36,7 @@
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/974dfffb801d29eb9df825bd52833b2034b27c99" alt="" title="" />
 </div>
 
-如果有<a href="http://www.codecogs.com/eqnedit.php?latex=f\left&space;(&space;x,y,z&space;\right&space;)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?f\left&space;(&space;x,y,z&space;\right&space;)" title="f\left ( x,y,z \right )" /></a>恒等于0，这个方程就会变成一个齐次方程，这个方程称作“拉普拉斯方程”。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果有<a href="http://www.codecogs.com/eqnedit.php?latex=f\left&space;(&space;x,y,z&space;\right&space;)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?f\left&space;(&space;x,y,z&space;\right&space;)" title="f\left ( x,y,z \right )" /></a>恒等于0，这个方程就会变成一个齐次方程，这个方程称作“拉普拉斯方程”。
 
 热传导方程就是泊松方程的一个著名范例
 
@@ -56,9 +56,11 @@
 <a href="http://www.codecogs.com/eqnedit.php?latex=\Delta&space;f=\frac{\partial&space;^{2}f}{\partial&space;x^{2}}&plus;\frac{\partial&space;^{2}f}{\partial&space;y^{2}}&plus;\frac{\partial&space;^{2}f}{\partial&space;z^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\Delta&space;f=\frac{\partial&space;^{2}f}{\partial&space;x^{2}}&plus;\frac{\partial&space;^{2}f}{\partial&space;y^{2}}&plus;\frac{\partial&space;^{2}f}{\partial&space;z^{2}}" title="\Delta f=\frac{\partial ^{2}f}{\partial x^{2}}+\frac{\partial ^{2}f}{\partial y^{2}}+\frac{\partial ^{2}f}{\partial z^{2}}" /></a>
 </div>
 
-* **静电场**
+* **电场**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;静电场，是指观察者与电荷相对静止时所观察到的电场。它是电荷周围空间存在的一种特殊形态的物质，其基本特征是对置于其中的静止电荷有力的作用。库仑定律描述了这个力。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电场是存在于电荷周围能传递电荷与电荷之间相互作用的物理场。在电荷周围总有电场存在；同时电场对场中其他电荷发生力的作用。观察者相对于电荷静止时所观察到的场称为静电场。如果电荷相对于观察者运动，则除静电场外，还有磁场出现。除了电荷以外，随着时间流易而变化的磁场也可以生成电场，这种电场叫做涡旋电场或感应电场。迈克尔·法拉第最先提出电场的概念。
+
+![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/img874.png?raw=true)![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/250px-VFPt_metal_ball_grounded.svg.png?raw=true)
 
 
 
