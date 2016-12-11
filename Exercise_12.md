@@ -5,11 +5,13 @@
 ###1. 摘要
 * **EXERCISES**
 
+* 5.1 Solve for the potential in the prism geometry in Figure 5.4.
 
+* 5.4 Investigate how the magnitude of the fringing field of a parallel plate capacitor, that is, the electric field outside the central region of the capacitor in Figure 5.6, varies as a function of the plate seperation.
 
+* 5.6 Calculate the electric potential and field near a lightning rod. Model this as a very long and narrow metal rod held at a high voltage, with one end near a conducting plane. Of special interest is the field near the tip of the rod.
 
-
-
+* 5.7 Write two progrems to solve the capacitor problem of Figure 5.6 and 5.7, one using the Jacobi method and one using the SOR algorithm. For a fixed accuracy compare the number of iterations, N_iter, that each algorithm requires as a function of the number of grid elements, L. Show that for the Jacobi method N_iter ~ L^2, while with SOR N_iter ~ L.
 
 ---
 ###2. 背景
