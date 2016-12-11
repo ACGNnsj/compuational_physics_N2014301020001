@@ -104,7 +104,7 @@
 
 * **算法探讨**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于求解泊松方程的问题，我们采用雅可比方法，对于二维问题，其迭代式为
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于求解泊松方程的问题，我们可采用雅可比方法，对于二维问题，其迭代式为
 
 <div align=center>
 <a href="http://www.codecogs.com/eqnedit.php?latex=V_{new}(i,&space;j)&space;=&space;\frac{1}{4}&space;[V_{old}(i&space;&plus;&space;1,&space;j)&space;&plus;&space;V_{old}(i&space;-1,&space;j)&space;&plus;&space;V_{old}(i,&space;j&space;&plus;&space;1)&space;&plus;&space;V_{old}(i,&space;J&space;-1)]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?V_{new}(i,&space;j)&space;=&space;\frac{1}{4}&space;[V_{old}(i&space;&plus;&space;1,&space;j)&space;&plus;&space;V_{old}(i&space;-1,&space;j)&space;&plus;&space;V_{old}(i,&space;j&space;&plus;&space;1)&space;&plus;&space;V_{old}(i,&space;J&space;-1)]" title="V_{new}(i, j) = \frac{1}{4} [V_{old}(i + 1, j) + V_{old}(i -1, j) + V_{old}(i, j + 1) + V_{old}(i, J -1)]" /></a>
