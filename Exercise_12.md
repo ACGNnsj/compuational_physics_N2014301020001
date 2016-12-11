@@ -88,10 +88,26 @@
 <a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;^&space;2V}{\partial&space;x&space;^&space;2}&space;&plus;&space;\frac{\partial&space;^&space;2V}{\partial&space;y&space;^&space;2}&space;&plus;&space;\frac{\partial&space;^&space;2V}{\partial&space;z&space;^&space;2}&space;=&space;0." target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\partial&space;^&space;2V}{\partial&space;x&space;^&space;2}&space;&plus;&space;\frac{\partial&space;^&space;2V}{\partial&space;y&space;^&space;2}&space;&plus;&space;\frac{\partial&space;^&space;2V}{\partial&space;z&space;^&space;2}&space;=&space;0." title="\frac{\partial ^ 2V}{\partial x ^ 2} + \frac{\partial ^ 2V}{\partial y ^ 2} + \frac{\partial ^ 2V}{\partial z ^ 2} = 0." /></a>
 </div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其迭代形式为
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=V(i,&space;j,&space;k)&space;=&space;\frac{1}{6}[V(i&space;&plus;&space;1,&space;j,&space;k)&space;&plus;&space;V(i&space;-&space;1,&space;j,&space;k)&space;&plus;&space;V(i,&space;j&space;&plus;&space;1,&space;k)\\&space;&plus;&space;V(i,&space;j&space;-&space;1,&space;k)&space;&plus;&space;V(i,&space;j,&space;k&space;&plus;&space;1)&space;&plus;&space;V(i,&space;j,&space;k&space;-&space;1)]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?V(i,&space;j,&space;k)&space;=&space;\frac{1}{6}[V(i&space;&plus;&space;1,&space;j,&space;k)&space;&plus;&space;V(i&space;-&space;1,&space;j,&space;k)&space;&plus;&space;V(i,&space;j&space;&plus;&space;1,&space;k)\\&space;&plus;&space;V(i,&space;j&space;-&space;1,&space;k)&space;&plus;&space;V(i,&space;j,&space;k&space;&plus;&space;1)&space;&plus;&space;V(i,&space;j,&space;k&space;-&space;1)]" title="V(i, j, k) = \frac{1}{6}[V(i + 1, j, k) + V(i - 1, j, k) + V(i, j + 1, k)\\ + V(i, j - 1, k) + V(i, j, k + 1) + V(i, j, k - 1)]" /></a>
+</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果约束在一个维度上无限长，则我们可将问题化为二维问题
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=V(i,&space;j,&space;k)&space;=&space;\frac{1}{4}[V(i&space;&plus;&space;1,&space;j,&space;k)&space;&plus;&space;V(i&space;-&space;1,&space;j,&space;k)&space;&plus;&space;V(i,&space;j&space;&plus;&space;1,&space;k)&space;&plus;&space;V(i,&space;j&space;-&space;1,&space;k)]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?V(i,&space;j,&space;k)&space;=&space;\frac{1}{4}[V(i&space;&plus;&space;1,&space;j,&space;k)&space;&plus;&space;V(i&space;-&space;1,&space;j,&space;k)&space;&plus;&space;V(i,&space;j&space;&plus;&space;1,&space;k)&space;&plus;&space;V(i,&space;j&space;-&space;1,&space;k)]" title="V(i, j, k) = \frac{1}{4}[V(i + 1, j, k) + V(i - 1, j, k) + V(i, j + 1, k) + V(i, j - 1, k)]" /></a>
+</div>
 
 
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Fig5Blog2.jpg?raw=true" alt="" title="" />
+</div>
 
-
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Fig5Blog2.jpg?raw=true" alt="" title="" />
+</div>
 
 
 
