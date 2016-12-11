@@ -178,13 +178,18 @@
 
 * Problem 5.7
 
-[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-4.py)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上面已经提及，不同的迭代方案的收敛速度有较大差异，特别是对于较大的系统，利用收敛较快的方法解决偏微分方程问题将节省大量的计算时间。这里展示松弛算法的三个实例——Jacobi、Gauss-Seidel和SOR算法的计算收敛速度。在同样的问题下(平行板电容问题)，对相同的收敛判据，三种方法收敛所需迭代次数展示如图所示。从图中可以看出，SOR方法所需迭代次数最少，且随着计算区域尺度的增加仅仅是线性增大的，另两种方式则是二次方增加的。相应的耗时也展示如下图(b)所示。 
+
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-7.py)
 
 <div align=center>
-<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_4-1.png?raw=true" alt="" title="" />
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/ch5_number.png?raw=true" alt="" title="" />
 </div>
 
----
-###4. 结果讨论
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如图所示，SOR方法是将Gauss-Seidel方法中每次更新电位时的增量增加为原来的α倍，选择合适的α可以使电位收敛更快。这里展示了不同α时的迭代次数，可见变化时α确实有单一最小值。
 
-SOR方法收敛速度明显更快
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-8.py)
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/ch5_SOR.png?raw=true" alt="" title="" />
+</div>
