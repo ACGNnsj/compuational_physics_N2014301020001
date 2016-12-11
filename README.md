@@ -9,7 +9,7 @@
 - [x] [Exercise_09](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_09.md)
 - [x] [Exercise_10](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_10.md)
 - [x] [Exercise_11](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_11.md)
-- [ ] Exercise_12
+- [x] [Exercise_12](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12.md)
 - [ ] Exercise_13
 - [ ] Exercise_14
 - [ ] Final Project
