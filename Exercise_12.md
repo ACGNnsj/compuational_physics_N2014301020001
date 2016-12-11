@@ -174,7 +174,9 @@
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-4.py)
 
-
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_4-1.png?raw=true" alt="" title="" />
+</div>
 
 ---
 ###4. 结果讨论
