@@ -29,6 +29,8 @@
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e66b1762dad29817722df3c923e9e6ec29ba1b89" alt="" title="" />
 </div>
 
+如果有<a href="http://www.codecogs.com/eqnedit.php?latex=f\left&space;(&space;x,y,z&space;\right&space;)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?f\left&space;(&space;x,y,z&space;\right&space;)" title="f\left ( x,y,z \right )" /></a>恒等于0，这个方程就会变成一个齐次方程，这个方程称作“拉普拉斯方程”。
+
 * **拉普拉斯方程**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;拉普拉斯方程，又名调和方程、位势方程，是一种偏微分方程。因为由法国数学家皮埃尔-西蒙·拉普拉斯首先提出而得名。求解拉普拉斯方程是电磁学、天文学、热力学和流体力学等领域经常遇到的一类重要的数学问题，因为这种方程以势函数的形式描写了电场、引力场和流场等物理对象（一般统称为“保守场”或“有势场”）的性质。
