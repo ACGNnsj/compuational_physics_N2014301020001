@@ -73,6 +73,9 @@
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/electricField.png?raw=true" alt="" title="" />
 </div>
 
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Fig5Blog2.jpg?raw=true" alt="" title="" />
+</div>
 
 ---
 ###3. 正文
