@@ -1,4 +1,4 @@
-# Exercise_11
+# Exercise_12
 
 
 ---
@@ -36,6 +36,12 @@
 </div>
 
 如果有<a href="http://www.codecogs.com/eqnedit.php?latex=f\left&space;(&space;x,y,z&space;\right&space;)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?f\left&space;(&space;x,y,z&space;\right&space;)" title="f\left ( x,y,z \right )" /></a>恒等于0，这个方程就会变成一个齐次方程，这个方程称作“拉普拉斯方程”。
+
+热传导方程就是泊松方程的一个著名范例
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Temp_Rod_homobc.svg.png?raw=true" alt="" title="" />
+</div>
 
 * **拉普拉斯方程**
 
