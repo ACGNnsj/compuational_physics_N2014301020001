@@ -110,6 +110,23 @@
 <a href="http://www.codecogs.com/eqnedit.php?latex=V_{new}(i,&space;j)&space;=&space;\frac{1}{4}&space;[V_{old}(i&space;&plus;&space;1,&space;j)&space;&plus;&space;V_{old}(i&space;-1,&space;j)&space;&plus;&space;V_{old}(i,&space;j&space;&plus;&space;1)&space;&plus;&space;V_{old}(i,&space;J&space;-1)]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?V_{new}(i,&space;j)&space;=&space;\frac{1}{4}&space;[V_{old}(i&space;&plus;&space;1,&space;j)&space;&plus;&space;V_{old}(i&space;-1,&space;j)&space;&plus;&space;V_{old}(i,&space;j&space;&plus;&space;1)&space;&plus;&space;V_{old}(i,&space;J&space;-1)]" title="V_{new}(i, j) = \frac{1}{4} [V_{old}(i + 1, j) + V_{old}(i -1, j) + V_{old}(i, j + 1) + V_{old}(i, J -1)]" /></a>
 </div>
 
+高斯-赛德尔迭代是对雅克比迭代的改进
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=V_{new}(i,&space;j)&space;=&space;\frac{1}{4}[V_{old}(i&space;&plus;&space;1,&space;j)&space;&plus;&space;V_{new}(i&space;-1,&space;j)&space;&plus;&space;V_{old}(i,&space;J&space;&plus;&space;1)&space;&plus;&space;V_{new}(i,&space;j&space;-&space;1)]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?V_{new}(i,&space;j)&space;=&space;\frac{1}{4}[V_{old}(i&space;&plus;&space;1,&space;j)&space;&plus;&space;V_{new}(i&space;-1,&space;j)&space;&plus;&space;V_{old}(i,&space;J&space;&plus;&space;1)&space;&plus;&space;V_{new}(i,&space;j&space;-&space;1)]" title="V_{new}(i, j) = \frac{1}{4}[V_{old}(i + 1, j) + V_{new}(i -1, j) + V_{old}(i, J + 1) + V_{new}(i, j - 1)]" /></a>
+</div>
+
+SOR法则更加先进
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\Delta&space;V(i,&space;j)&space;=&space;V&space;^&space;{*}(i,&space;j)&space;-&space;V_{old}(i,&space;j)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\Delta&space;V(i,&space;j)&space;=&space;V&space;^&space;{*}(i,&space;j)&space;-&space;V_{old}(i,&space;j)" title="\Delta V(i, j) = V ^ {*}(i, j) - V_{old}(i, j)" /></a>
+</div>
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\Delta&space;V(i,&space;j)&space;=&space;V&space;^&space;{*}(i,&space;j)&space;-&space;V_{old}(i,&space;j)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\Delta&space;V(i,&space;j)&space;=&space;V&space;^&space;{*}(i,&space;j)&space;-&space;V_{old}(i,&space;j)" title="\Delta V(i, j) = V ^ {*}(i, j) - V_{old}(i, j)" /></a>
+</div>
+
+
 * **程序模拟**
 
 * Problem 5.1
