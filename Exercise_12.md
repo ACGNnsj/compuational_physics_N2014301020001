@@ -170,6 +170,13 @@
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_2-4.png?raw=true" alt="" title="" />
 </div>
 
+* Problem 5.7
+
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-4.py)
+
+
+
 ---
 ###4. 结果讨论
 
+SOR方法收敛速度明显快于雅可比方法
