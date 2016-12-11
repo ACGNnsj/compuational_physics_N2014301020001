@@ -225,7 +225,7 @@ SOR法则更加先进
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/ch5_number.png?raw=true" alt="" title="" />
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如图所示，SOR方法是将Gauss-Seidel方法中每次更新电位时的增量增加为原来的α倍，选择合适的α可以使电位收敛更快。这里展示了不同α时的迭代次数，可见变化时α确实有单一最小值。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如下图所示，SOR方法是将Gauss-Seidel方法中每次更新电位时的增量增加为原来的α倍，选择合适的α可以使电位收敛更快。这里展示了不同α时的迭代次数，可见变化时α确实有单一最小值。
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-8.py)
 
