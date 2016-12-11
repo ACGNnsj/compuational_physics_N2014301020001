@@ -25,6 +25,10 @@
 <a href="http://www.codecogs.com/eqnedit.php?latex=\Delta&space;f=\frac{\partial&space;^{2}f}{\partial&space;x^{2}}&plus;\frac{\partial&space;^{2}f}{\partial&space;y^{2}}&plus;\frac{\partial&space;^{2}f}{\partial&space;z^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\Delta&space;f=\frac{\partial&space;^{2}f}{\partial&space;x^{2}}&plus;\frac{\partial&space;^{2}f}{\partial&space;y^{2}}&plus;\frac{\partial&space;^{2}f}{\partial&space;z^{2}}" title="\Delta f=\frac{\partial ^{2}f}{\partial x^{2}}+\frac{\partial ^{2}f}{\partial y^{2}}+\frac{\partial ^{2}f}{\partial z^{2}}" /></a>
 </div>
 
+* **静电场**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;静电场，是指观察者与电荷相对静止时所观察到的电场。它是电荷周围空间存在的一种特殊形态的物质，其基本特征是对置于其中的静止电荷有力的作用。库仑定律描述了这个力。
+
 
 
 ---
