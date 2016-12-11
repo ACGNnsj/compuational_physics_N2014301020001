@@ -29,6 +29,12 @@
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e66b1762dad29817722df3c923e9e6ec29ba1b89" alt="" title="" />
 </div>
 
+在三维直角坐标系，可以写成
+
+<div align=center>
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/974dfffb801d29eb9df825bd52833b2034b27c99" alt="" title="" />
+</div>
+
 如果有<a href="http://www.codecogs.com/eqnedit.php?latex=f\left&space;(&space;x,y,z&space;\right&space;)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?f\left&space;(&space;x,y,z&space;\right&space;)" title="f\left ( x,y,z \right )" /></a>恒等于0，这个方程就会变成一个齐次方程，这个方程称作“拉普拉斯方程”。
 
 * **拉普拉斯方程**
