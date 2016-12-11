@@ -7,7 +7,7 @@
 
 * 5.1 Solve for the potential in the prism geometry in Figure 5.4.
 
-* 5.4 Investigate how the magnitude of the fringing field of a parallel plate capacitor, that is, the electric field outside the central region of the capacitor in Figure 5.6, varies as a function of the plate seperation.
+* 5.3 Use the symmetry of the capacitor problem to write a program that obtains the result by calculating the potential in only half of one quadrant of x-y plane.
 
 * 5.6 Calculate the electric potential and field near a lightning rod. Model this as a very long and narrow metal rod held at a high voltage, with one end near a conducting plane. Of special interest is the field near the tip of the rod.
 
@@ -130,9 +130,30 @@
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_1-3.png?raw=true" alt="" title="" />
 </div>
 
+* Problem 5.3
+
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-3.py)
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_2-1.png?raw=true" alt="" title="" />
+</div>
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_2-2.png?raw=true" alt="" title="" />
+</div>
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_2-3.png?raw=true" alt="" title="" />
+</div>
 
 
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/2282b7fdf557fb6c.png?raw=true" alt="" title="" />
+</div>
 
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_2-4.png?raw=true" alt="" title="" />
+</div>
 
 
 ---
