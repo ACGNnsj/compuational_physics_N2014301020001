@@ -62,6 +62,16 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/img874.png?raw=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/250px-VFPt_metal_ball_grounded.svg.png?raw=true)
 
+* **电势**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电势（electric potential），是静电学里的专有名词，定义为处于电场中某个位置的单位电荷所具有的电势能。电势是标量。其数值不具有绝对意义，只具有相对意义，因此为了便于分析问题，必须设定一个参考位置，并把它设为零，称为零势能点。通常，会把无穷远处的电势设定为零。那么，电势可以定义如下：假设检验电荷从无穷远位置，经过任意路径，克服电场力，缓慢地移动到某位置，则在这位置的电势，等于因迁移所做的机械功与检验电荷量的比值。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电势必需满足泊松方程，同时符合相关边界条件；假设在某区域内的电荷密度为零，则泊松方程约化为拉普拉斯方程，电势必需满足拉普拉斯方程。
+在电动力学里，当含时电磁场存在的时候，电势可以延伸为“广义电势”。特别注意，广义电势不能被视为电势能每单位电荷。
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/electricField.png?raw=true" alt="" title="" />
+</div>
 
 
 ---
