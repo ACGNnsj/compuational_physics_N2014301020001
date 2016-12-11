@@ -172,9 +172,26 @@
 
 * Problem 5.6
 
-[查看程序1](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-5.py)
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-5.py)
 
-[查看程序1](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-6.py)
+等势线如下
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_3-1.png?raw=true" alt="" title="" />
+</div>
+
+等势面如下
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_3-2.png?raw=true" alt="" title="" />
+</div>
+
+电场线如下
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_3-3.png?raw=true" alt="" title="" />
+</div>
+
 
 * Problem 5.7
 
