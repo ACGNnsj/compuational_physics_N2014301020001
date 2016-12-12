@@ -199,13 +199,13 @@ SOR法则更加先进
 等势线如下
 
 <div align=center>
-<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_3-1.png?raw=true" alt="" title="" />
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_2.png?raw=true" alt="" title="" />
 </div>
 
 等势面如下
 
 <div align=center>
-<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_3-2.png?raw=true" alt="" title="" />
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_1.png?raw=true" alt="" title="" />
 </div>
 
 电场线如下
