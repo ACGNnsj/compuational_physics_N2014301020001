@@ -194,7 +194,7 @@ SOR法则更加先进
 
 * Problem 5.6
 
-[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-5.py)
+[查看程序1](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-6.py)
 
 等势线如下
 
@@ -211,9 +211,10 @@ SOR法则更加先进
 电场线如下
 
 <div align=center>
-<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_3-3.png?raw=true" alt="" title="" />
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_3.png?raw=true" alt="" title="" />
 </div>
 
+[查看程序2](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-5.py)
 
 * Problem 5.7
 
