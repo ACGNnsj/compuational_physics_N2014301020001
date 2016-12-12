@@ -208,13 +208,13 @@ SOR法则更加先进
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_1.png?raw=true" alt="" title="" />
 </div>
 
+[查看程序2](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-5.py)
+
 电场线如下
 
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/figure_3.png?raw=true" alt="" title="" />
 </div>
-
-[查看程序2](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_12/Exercise_12-5.py)
 
 * Problem 5.7
 
