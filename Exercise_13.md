@@ -63,3 +63,6 @@
 <div align=center>
 二维驻波
 </div>
+
+* **频谱**
+
