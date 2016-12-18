@@ -103,3 +103,12 @@
 ###3. 正文
 
 * **理论推导**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;波动方程是双曲形偏微分方程的最典型代表，其最简形式可表示为：关于位置x和时间t的标量函数u（代表各点偏离平衡位置的距离）满足
+
+<div align=center>
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/75a9ffe02fba001388931079b7bab7c9e4dea451" alt="" title="" />
+</div>
+
+这里c通常是一个固定常数，代表波的传播速率。
+
