@@ -25,3 +25,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;固体有切变弹性，所以在固体中能传播横波，液体和气体没有切变弹性，因此只能传播纵波，而不能传播横波。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;液体表面形成的水波是由于重力和表面张力作用而形成的，表面每个质点振动的方向又不和波的传播方向保持垂直，严格说，在水表面的水波并不属于横波的范畴，因为水波与地震波都是既有横波又有纵波的复杂类型的机械波。
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/Onde_cisaillement_impulsion_1d_30_petit.gif?raw=true" alt="" title="" />
+</div>
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/simple_harmonic_motion_animation.gif?raw=true" alt="" title="" />
+</div>
