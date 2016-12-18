@@ -7,9 +7,6 @@
 > `6.12 Gaussian initial string displacements are convenient for the calculations of this section, but are not very realistic. When a real string, such as a guitar string, is plucked, the initial string displacement is more accurately described by two straight lines that start at the ends of the string (we assume fixed ends) and end at the excitation point, as illustrated in Figure 6.4. Compare the power spectrum for a string excited in this manner with results found above for a Gaussian initial wavepacket.
 `
 
-> `6.16 Perform the calculations described in this section. One interesting possibility is to compare the size of the octave stretching, that is, the magnitude of the deviations from a purely harmonic spectrum, for short (treble) and long (bass) strings. The relevant string parameters for a good grand piano are given in Table 6.1.
-`
-
 ---
 ###2. 背景
 
@@ -202,4 +199,20 @@
 
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/GIF.gif?raw=true" alt="" title="" />
+</div>
+
+* Problem 6.12
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们先考虑弦线处于高斯初始状态下，即
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=y_0(x)=exp[-1000\times(x-x_{excite})]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?y_0(x)=exp[-1000\times(x-x_{excite})]" title="y_0(x)=exp[-1000\times(x-x_{excite})]" /></a>
+</div>
+
+并且弦长为1m。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当<a href="http://www.codecogs.com/eqnedit.php?latex=x_{excite}=0.5" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{excite}=0.5" title="x_{excite}=0.5" /></a>时，在<a href="http://www.codecogs.com/eqnedit.php?latex=x_{observe}=0.05" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{observe}=0.05" title="x_{observe}=0.05" /></a>处，线元的振动图像如下
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/signal%201.png?raw=true" alt="" title="" />
 </div>
