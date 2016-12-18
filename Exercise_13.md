@@ -181,3 +181,15 @@
 </div>
 
 其中<a href="http://www.codecogs.com/eqnedit.php?latex=\epsilon" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\epsilon" title="\epsilon" /></a>是无量纲的劲度系数，<a href="http://www.codecogs.com/eqnedit.php?latex=L" target="_blank"><img src="http://latex.codecogs.com/gif.latex?L" title="L" /></a>是弦长
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;用和上一章相同的方法我们可以得到四阶偏导的有限差分形式
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\partial^4y}{\partial&space;x^4}=\frac{y(i&plus;2,n)-4y(i&plus;1,n)&plus;6y(i,n)-4y(i-1,n)&plus;y(i-2,n)}{(\Delta&space;x)^4}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\partial^4y}{\partial&space;x^4}=\frac{y(i&plus;2,n)-4y(i&plus;1,n)&plus;6y(i,n)-4y(i-1,n)&plus;y(i-2,n)}{(\Delta&space;x)^4}" title="\frac{\partial^4y}{\partial x^4}=\frac{y(i+2,n)-4y(i+1,n)+6y(i,n)-4y(i-1,n)+y(i-2,n)}{(\Delta x)^4}" /></a>
+</div>
+
+代入考虑了劲度系数的弦振动方程，经过一些运算，我们可得
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\dpi{200}&space;\tiny&space;y(i,n&plus;1)&space;=&space;[2-2r^2&space;-&space;6\epsilon&space;r^2M^2]y(i,n)&space;-&space;y(i,n-1)&space;&plus;r^2[1&space;&plus;&space;4\epsilon&space;M^2][y(i&plus;1,n)&plus;y(i-1,n)]&space;-\epsilon&space;r^2&space;M^2[y(i&plus;2,n)-y(i-2,n)]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\dpi{200}&space;\tiny&space;y(i,n&plus;1)&space;=&space;[2-2r^2&space;-&space;6\epsilon&space;r^2M^2]y(i,n)&space;-&space;y(i,n-1)&space;&plus;r^2[1&space;&plus;&space;4\epsilon&space;M^2][y(i&plus;1,n)&plus;y(i-1,n)]&space;-\epsilon&space;r^2&space;M^2[y(i&plus;2,n)-y(i-2,n)]" title="\tiny y(i,n+1) = [2-2r^2 - 6\epsilon r^2M^2]y(i,n) - y(i,n-1) +r^2[1 + 4\epsilon M^2][y(i+1,n)+y(i-1,n)] -\epsilon r^2 M^2[y(i+2,n)-y(i-2,n)]" /></a>
+</div>
