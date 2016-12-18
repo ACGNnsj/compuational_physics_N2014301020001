@@ -85,3 +85,7 @@
 <div align=center>
 一个声音信号及其对应的频谱
 </div>
+
+* **快速傅里叶变换**
+
+快速傅里叶变换（英语：Fast Fourier Transform, FFT），是计算序列的离散傅里叶变换（DFT）或其逆变换的一种算法。傅里叶分析将信号从原始域（通常是时间或空间）转换到频域的表示或者逆过来转换。FFT会通过把DFT矩阵分解为稀疏（大多为零）因子之积来快速计算此类变换。因此，它能够将计算DFT的复杂度从只用DFT定义计算需要的<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6cd9594a16cb898b8f2a2dff9227a385ec183392" alt="" title="" />，降低到<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9d2320768fb54880ca4356e61f60eb02a3f9d9f1" alt="" title="" />，其中<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" alt="" title="" />为数据大小。
