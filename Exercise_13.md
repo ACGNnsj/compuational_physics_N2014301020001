@@ -179,3 +179,5 @@
 <div align=center>
 <a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;^2&space;y}{\partial&space;t^2}&space;=&space;c^2(\frac{\partial&space;^2&space;y}{\partial&space;x^2}&space;-&space;\epsilon&space;L^2\frac{\partial&space;^4&space;y}{\partial&space;x^4})" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\partial&space;^2&space;y}{\partial&space;t^2}&space;=&space;c^2(\frac{\partial&space;^2&space;y}{\partial&space;x^2}&space;-&space;\epsilon&space;L^2\frac{\partial&space;^4&space;y}{\partial&space;x^4})" title="\frac{\partial ^2 y}{\partial t^2} = c^2(\frac{\partial ^2 y}{\partial x^2} - \epsilon L^2\frac{\partial ^4 y}{\partial x^4})" /></a>
 </div>
+
+其中<a href="http://www.codecogs.com/eqnedit.php?latex=\epsilon" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\epsilon" title="\epsilon" /></a>是无量纲的劲度系数，<a href="http://www.codecogs.com/eqnedit.php?latex=L" target="_blank"><img src="http://latex.codecogs.com/gif.latex?L" title="L" /></a>是弦长
