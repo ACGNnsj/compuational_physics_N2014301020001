@@ -142,4 +142,10 @@
 <a href="http://www.codecogs.com/eqnedit.php?latex=\frac&space;{d^2&space;y_i}{dt^2}\approx&space;\left(&space;\frac&space;{T}{\mu}&space;\right)\frac{y_{i&plus;1}-2y_i&space;&plus;y_{i-1}}&space;{(\Delta&space;x)^2}\approx&space;\left&space;(&space;\frac{T}{\rho&space;}&space;\right&space;)\frac{\partial&space;^{2}y}{\partial&space;x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac&space;{d^2&space;y_i}{dt^2}\approx&space;\left(&space;\frac&space;{T}{\mu}&space;\right)\frac{y_{i&plus;1}-2y_i&space;&plus;y_{i-1}}&space;{(\Delta&space;x)^2}\approx&space;\left&space;(&space;\frac{T}{\rho&space;}&space;\right&space;)\frac{\partial&space;^{2}y}{\partial&space;x^{2}}" title="\frac {d^2 y_i}{dt^2}\approx \left( \frac {T}{\mu} \right)\frac{y_{i+1}-2y_i +y_{i-1}} {(\Delta x)^2}\approx \left ( \frac{T}{\rho } \right )\frac{\partial ^{2}y}{\partial x^{2}}" /></a>
 </div>
 
-这恰好就是波动方程的最简形式
+这恰好就是波动方程的最简形式。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为了使用数值方法计算，我们将波动方程写成有限差分形式，为此，我们将<a href="http://www.codecogs.com/eqnedit.php?latex=x" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x" title="x" /></a>和<a href="http://www.codecogs.com/eqnedit.php?latex=t" target="_blank"><img src="http://latex.codecogs.com/gif.latex?t" title="t" /></a>都当成离散变量处理
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=x=i\Delta&space;x,t=n&space;\Delta&space;t" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x=i\Delta&space;x,t=n&space;\Delta&space;t" title="x=i\Delta x,t=n \Delta t" /></a>
+</div>
