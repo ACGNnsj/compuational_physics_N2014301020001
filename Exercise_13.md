@@ -177,15 +177,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;然而在实际情况中，弦线是有劲度的，它的受力会有所不同，劲度可以通过在之前的弦振动方程中添加一项以被以被包含在模型中
 
 <div align=center>
-<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;^2&space;y}{\partial&space;t^2}&space;=&space;c^2(\frac{\partial&space;^2&space;y}{\partial&space;x^2}&space;-&space;\epsilon&space;L^2\frac{\partial&space;^4&space;y}{\partial&space;x^4})" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\partial&space;^2&space;y}{\partial&space;t^2}&space;=&space;c^2(\frac{\partial&space;^2&space;y}{\partial&space;x^2}&space;-&space;\epsilon&space;L^2\frac{\partial&space;^4&space;y}{\partial&space;x^4})" title="\frac{\partial ^2 y}{\partial t^2} = c^2(\frac{\partial ^2 y}{\partial x^2} - \epsilon L^2\frac{\partial ^4 y}{\partial x^4})" /></a>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\dpi{200}&space;\tiny&space;\frac{\partial&space;^2&space;y}{\partial&space;t^2}&space;=&space;c^2(\frac{\partial&space;^2&space;y}{\partial&space;x^2}&space;-&space;\epsilon&space;L^2\frac{\partial&space;^4&space;y}{\partial&space;x^4})" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\dpi{200}&space;\tiny&space;\frac{\partial&space;^2&space;y}{\partial&space;t^2}&space;=&space;c^2(\frac{\partial&space;^2&space;y}{\partial&space;x^2}&space;-&space;\epsilon&space;L^2\frac{\partial&space;^4&space;y}{\partial&space;x^4})" title="\tiny \frac{\partial ^2 y}{\partial t^2} = c^2(\frac{\partial ^2 y}{\partial x^2} - \epsilon L^2\frac{\partial ^4 y}{\partial x^4})" /></a>
 </div>
 
-其中<a href="http://www.codecogs.com/eqnedit.php?latex=\epsilon" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\epsilon" title="\epsilon" /></a>是无量纲的劲度系数，<a href="http://www.codecogs.com/eqnedit.php?latex=L" target="_blank"><img src="http://latex.codecogs.com/gif.latex?L" title="L" /></a>是弦长
+其中<a href="http://www.codecogs.com/eqnedit.php?latex=\dpi{200}&space;\tiny&space;\epsilon" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\dpi{200}&space;\tiny&space;\epsilon" title="\tiny \epsilon" /></a>是无量纲的劲度系数，<a href="http://www.codecogs.com/eqnedit.php?latex=\dpi{200}&space;\tiny&space;L" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\dpi{200}&space;\tiny&space;L" title="\tiny L" /></a>是弦长
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;用和上一章相同的方法我们可以得到四阶偏导的有限差分形式
 
 <div align=center>
-<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\partial^4y}{\partial&space;x^4}=\frac{y(i&plus;2,n)-4y(i&plus;1,n)&plus;6y(i,n)-4y(i-1,n)&plus;y(i-2,n)}{(\Delta&space;x)^4}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\partial^4y}{\partial&space;x^4}=\frac{y(i&plus;2,n)-4y(i&plus;1,n)&plus;6y(i,n)-4y(i-1,n)&plus;y(i-2,n)}{(\Delta&space;x)^4}" title="\frac{\partial^4y}{\partial x^4}=\frac{y(i+2,n)-4y(i+1,n)+6y(i,n)-4y(i-1,n)+y(i-2,n)}{(\Delta x)^4}" /></a>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\dpi{200}&space;\tiny&space;\frac{\partial^4y}{\partial&space;x^4}=\frac{y(i&plus;2,n)-4y(i&plus;1,n)&plus;6y(i,n)-4y(i-1,n)&plus;y(i-2,n)}{(\Delta&space;x)^4}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\dpi{200}&space;\tiny&space;\frac{\partial^4y}{\partial&space;x^4}=\frac{y(i&plus;2,n)-4y(i&plus;1,n)&plus;6y(i,n)-4y(i-1,n)&plus;y(i-2,n)}{(\Delta&space;x)^4}" title="\tiny \frac{\partial^4y}{\partial x^4}=\frac{y(i+2,n)-4y(i+1,n)+6y(i,n)-4y(i-1,n)+y(i-2,n)}{(\Delta x)^4}" /></a>
 </div>
 
 代入考虑了劲度系数的弦振动方程，经过一些运算，我们可得
