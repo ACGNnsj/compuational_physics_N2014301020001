@@ -216,3 +216,9 @@
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/signal%201.png?raw=true" alt="" title="" />
 </div>
+
+其对应的功率谱如下
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/0.5.png?raw=true" alt="" title="" />
+</div>
