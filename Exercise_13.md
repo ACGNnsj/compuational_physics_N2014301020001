@@ -124,3 +124,20 @@
 
 这里c通常是一个固定常数，代表波的传播速率。
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们着重研究弦线上波的传播规律。我们对一小段弦线进行受力分析有
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=(\mu&space;\Delta&space;x)&space;\frac&space;{d^2&space;y_i}{dx^2}=T\sin&space;\theta_{i&plus;1}-T\sin\theta_i" target="_blank"><img src="http://latex.codecogs.com/gif.latex?(\mu&space;\Delta&space;x)&space;\frac&space;{d^2&space;y_i}{dx^2}=T\sin&space;\theta_{i&plus;1}-T\sin\theta_i" title="(\mu \Delta x) \frac {d^2 y_i}{dx^2}=T\sin \theta_{i+1}-T\sin\theta_i" /></a>
+</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们对角度进行有限差分近似有
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=sin\theta_i\approx&space;\frac&space;{y_i-y_{i-1}}{\Delta&space;x}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?sin\theta_i\approx&space;\frac&space;{y_i-y_{i-1}}{\Delta&space;x}" title="sin\theta_i\approx \frac {y_i-y_{i-1}}{\Delta x}" /></a>
+</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;代入化简可得
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\frac&space;{d^2&space;y_i}{dt^2}\approx&space;\left(&space;\frac&space;{T}{\mu}&space;\right)\frac{y_{i&plus;1}-2y_i&space;&plus;y_{i-1}}&space;{(\Delta&space;x)^2}\approx&space;\left&space;(&space;\frac{T}{\rho&space;}&space;\right&space;)\frac{\partial&space;^{2}y}{\partial&space;x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac&space;{d^2&space;y_i}{dt^2}\approx&space;\left(&space;\frac&space;{T}{\mu}&space;\right)\frac{y_{i&plus;1}-2y_i&space;&plus;y_{i-1}}&space;{(\Delta&space;x)^2}\approx&space;\left&space;(&space;\frac{T}{\rho&space;}&space;\right&space;)\frac{\partial&space;^{2}y}{\partial&space;x^{2}}" title="\frac {d^2 y_i}{dt^2}\approx \left( \frac {T}{\mu} \right)\frac{y_{i+1}-2y_i +y_{i-1}} {(\Delta x)^2}\approx \left ( \frac{T}{\rho } \right )\frac{\partial ^{2}y}{\partial x^{2}}" /></a>
+</div>
