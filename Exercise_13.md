@@ -1,5 +1,4 @@
-# Exercise_12
-
+# Exercise_13
 
 ---
 ###1. 摘要
@@ -99,3 +98,8 @@
 <div align=center>
 缩放后的五项余弦级数的DFT和FFT
 </div>
+
+---
+###3. 正文
+
+* **理论推导**
