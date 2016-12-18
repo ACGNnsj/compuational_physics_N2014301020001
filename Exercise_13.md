@@ -195,3 +195,4 @@
 </div>
 
 其中<a href="http://www.codecogs.com/eqnedit.php?latex=M=\frac{L}{\Delta&space;x&space;}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?M=\frac{L}{\Delta&space;x&space;}" title="M=\frac{L}{\Delta x }" /></a>。
+
