@@ -173,3 +173,9 @@
 </div>
 
 其中<a href="http://www.codecogs.com/eqnedit.php?latex=r\equiv&space;\frac{c\Delta&space;t}{\Delta&space;x}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?r\equiv&space;\frac{c\Delta&space;t}{\Delta&space;x}" title="r\equiv \frac{c\Delta t}{\Delta x}" /></a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;然而在实际情况中，弦线是有劲度的，它的受力会有所不同，劲度可以通过在之前的弦振动方程中添加一项以被以被包含在模型中
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;^2&space;y}{\partial&space;t^2}&space;=&space;c^2(\frac{\partial&space;^2&space;y}{\partial&space;x^2}&space;-&space;\epsilon&space;L^2\frac{\partial&space;^4&space;y}{\partial&space;x^4})" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\partial&space;^2&space;y}{\partial&space;t^2}&space;=&space;c^2(\frac{\partial&space;^2&space;y}{\partial&space;x^2}&space;-&space;\epsilon&space;L^2\frac{\partial&space;^4&space;y}{\partial&space;x^4})" title="\frac{\partial ^2 y}{\partial t^2} = c^2(\frac{\partial ^2 y}{\partial x^2} - \epsilon L^2\frac{\partial ^4 y}{\partial x^4})" /></a>
+</div>
