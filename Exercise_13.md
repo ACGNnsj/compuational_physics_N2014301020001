@@ -167,3 +167,5 @@
 <div align=center>
 <a href="http://www.codecogs.com/eqnedit.php?latex=y\left(&space;i,n&plus;1&space;\right)=2\left[&space;1-r^2&space;\right]y\left(&space;i,n&space;\right)&space;-y\left(&space;i,n-1&space;\right)&plus;r^2\left[y\left(&space;i&plus;1,n&space;\right)&plus;y\left(&space;i-1,n&space;\right)&space;\right]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?y\left(&space;i,n&plus;1&space;\right)=2\left[&space;1-r^2&space;\right]y\left(&space;i,n&space;\right)&space;-y\left(&space;i,n-1&space;\right)&plus;r^2\left[y\left(&space;i&plus;1,n&space;\right)&plus;y\left(&space;i-1,n&space;\right)&space;\right]" title="y\left( i,n+1 \right)=2\left[ 1-r^2 \right]y\left( i,n \right) -y\left( i,n-1 \right)+r^2\left[y\left( i+1,n \right)+y\left( i-1,n \right) \right]" /></a>
 </div>
+
+其中<a href="http://www.codecogs.com/eqnedit.php?latex=r\equiv&space;\frac{c\Delta&space;t}{\Delta&space;x}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?r\equiv&space;\frac{c\Delta&space;t}{\Delta&space;x}" title="r\equiv \frac{c\Delta t}{\Delta x}" /></a>
