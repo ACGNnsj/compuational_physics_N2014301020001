@@ -196,3 +196,10 @@
 
 * **程序模拟**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;齐次线性偏微分方程的一个重要特征是有限个解的线性组合也是方程的解。由此，在弦上运动的两个波包的运动是独立的。为了说明这一点，我们在弦上的x=0.3m，0.7m处各施加一个峰值不同的高斯型扰动，观察之后波包的运动。这里我们选择弦长为1m，c=300m/s，dx=0.01m，dt=dx/c，k=1000m^(-2)，边界点固定。
+
+[查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/Exercise_13-1.py)
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/GIF.gif?raw=true" alt="" title="" />
+</div>
