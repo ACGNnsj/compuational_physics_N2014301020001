@@ -149,3 +149,9 @@
 <div align=center>
 <a href="http://www.codecogs.com/eqnedit.php?latex=x=i\Delta&space;x,t=n&space;\Delta&space;t" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x=i\Delta&space;x,t=n&space;\Delta&space;t" title="x=i\Delta x,t=n \Delta t" /></a>
 </div>
+
+并且我们将<a href="http://www.codecogs.com/eqnedit.php?latex=y" target="_blank"><img src="http://latex.codecogs.com/gif.latex?y" title="y" /></a>记为
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=y\equiv&space;y\left(&space;x=i\Delta&space;x,t=n\Delta&space;t&space;\right)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?y\equiv&space;y\left(&space;x=i\Delta&space;x,t=n\Delta&space;t&space;\right)" title="y\equiv y\left( x=i\Delta x,t=n\Delta t \right)" /></a>
+</div>
