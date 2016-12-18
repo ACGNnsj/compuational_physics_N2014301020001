@@ -124,6 +124,10 @@
 
 这里c通常是一个固定常数，代表波的传播速率。
 
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/3611110-164aa437ee3c0d4e.jpg?raw=true" alt="" title="" />
+</div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们着重研究弦线上波的传播规律。我们对一小段弦线进行受力分析有
 
 <div align=center>
