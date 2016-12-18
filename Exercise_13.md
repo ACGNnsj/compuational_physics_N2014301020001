@@ -141,3 +141,5 @@
 <div align=center>
 <a href="http://www.codecogs.com/eqnedit.php?latex=\frac&space;{d^2&space;y_i}{dt^2}\approx&space;\left(&space;\frac&space;{T}{\mu}&space;\right)\frac{y_{i&plus;1}-2y_i&space;&plus;y_{i-1}}&space;{(\Delta&space;x)^2}\approx&space;\left&space;(&space;\frac{T}{\rho&space;}&space;\right&space;)\frac{\partial&space;^{2}y}{\partial&space;x^{2}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac&space;{d^2&space;y_i}{dt^2}\approx&space;\left(&space;\frac&space;{T}{\mu}&space;\right)\frac{y_{i&plus;1}-2y_i&space;&plus;y_{i-1}}&space;{(\Delta&space;x)^2}\approx&space;\left&space;(&space;\frac{T}{\rho&space;}&space;\right&space;)\frac{\partial&space;^{2}y}{\partial&space;x^{2}}" title="\frac {d^2 y_i}{dt^2}\approx \left( \frac {T}{\mu} \right)\frac{y_{i+1}-2y_i +y_{i-1}} {(\Delta x)^2}\approx \left ( \frac{T}{\rho } \right )\frac{\partial ^{2}y}{\partial x^{2}}" /></a>
 </div>
+
+这恰好就是波动方程的最简形式
