@@ -69,3 +69,19 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;频谱是指一个时域的信号在频域下的表示方式，可以针对信号进行傅里叶变换而得，所得的结果会是以分别以幅度及相位为纵轴，频率为横轴的两张图，不过有时也会省略相位的信息，只有不同频率下对应幅度的资料。有时也以“幅度频谱”表示幅度随频率变化的情形，“相位频谱”表示相位随频率变化的情形。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;简单来说，频谱可以表示一个信号是由哪些频率的弦波所组成，也可以看出各频率弦波的大小及相位等信息。
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/1T0041050-15.jpg?raw=true" alt="" title="" />
+</div>
+
+<div align=center>
+不同波形在时域及频域上的图像
+</div>
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/Voice_waveform_and_spectrum.png?raw=true" alt="" title="" />
+</div>
+
+<div align=center>
+一个声音信号及其对应的频谱
+</div>
