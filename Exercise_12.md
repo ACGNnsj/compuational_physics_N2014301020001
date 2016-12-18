@@ -3,7 +3,7 @@
 
 ---
 ###1. 摘要
-* **EXERCISES**
+**EXERCISES**
 
 * 5.1 Solve for the potential in the prism geometry in Figure 5.4.
 
