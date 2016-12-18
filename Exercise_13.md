@@ -246,3 +246,5 @@
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/0.6.png?raw=true" alt="" title="" />
 </div>
+
+* 可以发现，<a href="http://www.codecogs.com/eqnedit.php?latex=x_{excite}=0.4" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{excite}=0.4" title="x_{excite}=0.4" /></a>和<a href="http://www.codecogs.com/eqnedit.php?latex=x_{excite}=0.6" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{excite}=0.6" title="x_{excite}=0.6" /></a>时<a href="http://www.codecogs.com/eqnedit.php?latex=x_{observe}=0.05" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{observe}=0.05" title="x_{observe}=0.05" /></a>处的功率谱和<a href="http://www.codecogs.com/eqnedit.php?latex=x_{excite}=0.5" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{excite}=0.5" title="x_{excite}=0.5" /></a>时的相仿
