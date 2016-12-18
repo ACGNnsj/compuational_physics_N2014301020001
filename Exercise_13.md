@@ -7,12 +7,8 @@
 > `6.12 Gaussian initial string displacements are convenient for the calculations of this section, but are not very realistic. When a real string, such as a guitar string, is plucked, the initial string displacement is more accurately described by two straight lines that start at the ends of the string (we assume fixed ends) and end at the excitation point, as illustrated in Figure 6.4. Compare the power spectrum for a string excited in this manner with results found above for a Gaussian initial wavepacket.
 `
 
-
-
-
-
-
-
+> `6.16 Perform the calculations described in this section. One interesting possibility is to compare the size of the octave stretching, that is, the magnitude of the deviations from a purely harmonic spectrum, for short (treble) and long (bass) strings. The relevant string parameters for a good grand piano are given in Table 6.1.
+`
 
 ---
 ###2. 背景
