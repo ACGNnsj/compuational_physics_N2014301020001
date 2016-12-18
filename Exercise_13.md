@@ -4,7 +4,8 @@
 ###1. 摘要
 **EXERCISES**
 
->* 6.12 Gaussian initial string displacements are convenient for the calculations of this section, but are not very realistic. When a real string, such as a guitar string, is plucked, the initial string displacement is more accurately described by two straight lines that start at the ends of the string (we assume fixed ends) and end at the excitation point, as illustrated in Figure 6.4. Compare the power spectrum for a string excited in this manner with results found above for a Gaussian initial wavepacket.
+> `6.12 Gaussian initial string displacements are convenient for the calculations of this section, but are not very realistic. When a real string, such as a guitar string, is plucked, the initial string displacement is more accurately described by two straight lines that start at the ends of the string (we assume fixed ends) and end at the excitation point, as illustrated in Figure 6.4. Compare the power spectrum for a string excited in this manner with results found above for a Gaussian initial wavepacket.
+`
 
 
 
