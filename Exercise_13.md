@@ -97,5 +97,5 @@
 </div>
 
 <div align=center>
-一个声音信号及其对应的频谱
+缩放后的五项余弦级数的DFT和FFT
 </div>
