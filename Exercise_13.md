@@ -15,6 +15,18 @@
 ---
 ###2. 背景
 
+* **波**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;波或波动是扰动或物理信息在空间上传播的一种物理现象，扰动的形式任意，传递路径上的其他介质也作同一形式振动。波的传播速度总是有限的。除了电磁波、引力波和重力波能够在真空中传播外，大部分波如机械波只能在介质中传播。波速与介质的弹性与惯性有关，但与波源的性质无关。
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/20f950fdaf6ec8cd461ee2627411dc4d.jpg?raw=true" alt="" title="" />
+</div>
+
+<div align=center>
+双黑洞合并过程中产生的引力波
+</div>
+
 * **横波**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;横波，又称为高低波，是介质振动方向和波行进方向垂直的一种波。若此波沿着x轴移动，则介质的振动方向为与x轴垂直的方向上。举例来说绳波就是一种横波。
