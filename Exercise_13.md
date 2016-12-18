@@ -270,3 +270,8 @@
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/55.png?raw=true" alt="" title="" />
 </div>
+
+
+
+
+* 可见，由于初始的波形没有了对称性，频谱上多出了一些峰。
