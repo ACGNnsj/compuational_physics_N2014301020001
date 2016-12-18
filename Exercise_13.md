@@ -155,3 +155,9 @@
 <div align=center>
 <a href="http://www.codecogs.com/eqnedit.php?latex=y\equiv&space;y\left(&space;x=i\Delta&space;x,t=n\Delta&space;t&space;\right)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?y\equiv&space;y\left(&space;x=i\Delta&space;x,t=n\Delta&space;t&space;\right)" title="y\equiv y\left( x=i\Delta x,t=n\Delta t \right)" /></a>
 </div>
+
+从而我们获得弦振动方程的有限差分形式
+
+<div align=center>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\frac&space;{y\left(&space;i,n&plus;1&space;\right)&plus;y&space;\left&space;(&space;i,n-1&space;\right)-2y\left(i,n&space;\right)}{\left(&space;\Delta&space;t\right)^2}&space;\approx&space;c^2\left[&space;\frac&space;{y\left(&space;i&plus;1,n&space;\right)&plus;y\left(i-1,n\right)-2y\left(i,n&space;\right)}{\left(\Delta&space;x\right)^2}\right]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac&space;{y\left(&space;i,n&plus;1&space;\right)&plus;y&space;\left&space;(&space;i,n-1&space;\right)-2y\left(i,n&space;\right)}{\left(&space;\Delta&space;t\right)^2}&space;\approx&space;c^2\left[&space;\frac&space;{y\left(&space;i&plus;1,n&space;\right)&plus;y\left(i-1,n\right)-2y\left(i,n&space;\right)}{\left(\Delta&space;x\right)^2}\right]" title="\frac {y\left( i,n+1 \right)+y \left ( i,n-1 \right)-2y\left(i,n \right)}{\left( \Delta t\right)^2} \approx c^2\left[ \frac {y\left( i+1,n \right)+y\left(i-1,n\right)-2y\left(i,n \right)}{\left(\Delta x\right)^2}\right]" /></a>
+</div>
