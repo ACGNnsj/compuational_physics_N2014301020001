@@ -250,3 +250,9 @@
 </div>
 
 * 可以发现，<a href="http://www.codecogs.com/eqnedit.php?latex=x_{excite}=0.4" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{excite}=0.4" title="x_{excite}=0.4" /></a>和<a href="http://www.codecogs.com/eqnedit.php?latex=x_{excite}=0.6" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{excite}=0.6" title="x_{excite}=0.6" /></a>时<a href="http://www.codecogs.com/eqnedit.php?latex=x_{observe}=0.05" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{observe}=0.05" title="x_{observe}=0.05" /></a>处的功率谱和<a href="http://www.codecogs.com/eqnedit.php?latex=x_{excite}=0.5" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{excite}=0.5" title="x_{excite}=0.5" /></a>时的相仿，而<a href="http://www.codecogs.com/eqnedit.php?latex=x_{excite}=0.45" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{excite}=0.45" title="x_{excite}=0.45" /></a>和<a href="http://www.codecogs.com/eqnedit.php?latex=x_{excite}=0.55" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{excite}=0.55" title="x_{excite}=0.55" /></a>时<a href="http://www.codecogs.com/eqnedit.php?latex=x_{observe}=0.05" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{observe}=0.05" title="x_{observe}=0.05" /></a>处的功率谱则与<a href="http://www.codecogs.com/eqnedit.php?latex=x_{excite}=0.5" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{excite}=0.5" title="x_{excite}=0.5" /></a>时的在峰值位置上有明显的偏移。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现在我们考察当初始波形为三角波的情况下的功率谱。当三角形的上顶角对应的位置为弦的中心时，<a href="http://www.codecogs.com/eqnedit.php?latex=x_{observe}=0.05" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{observe}=0.05" title="x_{observe}=0.05" /></a>处的振动图像如下
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/lalala2.png?raw=true" alt="" title="" />
+</div>
