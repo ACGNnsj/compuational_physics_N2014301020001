@@ -265,7 +265,7 @@
 
 [查看程序](https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/Exercise_13-3.py)
 
-当<a href="http://www.codecogs.com/eqnedit.php?latex=x_{excite}=0.55" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{excite}=0.55" title="x_{excite}=0.55" /></a>时，<a href="http://www.codecogs.com/eqnedit.php?latex=x_{observe}=0.05" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{observe}=0.05" title="x_{observe}=0.05" /></a>处的功率谱如下
+> 当<a href="http://www.codecogs.com/eqnedit.php?latex=x_{excite}=0.55" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{excite}=0.55" title="x_{excite}=0.55" /></a>时，<a href="http://www.codecogs.com/eqnedit.php?latex=x_{observe}=0.05" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x_{observe}=0.05" title="x_{observe}=0.05" /></a>处的功率谱如下
 
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/55.png?raw=true" alt="" title="" />
