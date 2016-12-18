@@ -33,3 +33,33 @@
 <div align=center>
 <img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/simple_harmonic_motion_animation.gif?raw=true" alt="" title="" />
 </div>
+
+* **驻波**
+
+驻波为两个波长、周期、频率和波速皆相同的正弦波相向行进干涉而成的合成波。与行波不同，驻波的波形无法前进，因此无法传播能量，故名之。
+
+驻波通过时，每一个质点皆作简谐运动。各质点振荡的幅度不相等，振幅为零的点称为节点或波节，振幅最大的点位于两节点之间，称为腹点或波腹。由于节点静止不动，所以波形没有传播。能量以动能和势能的形式交换储存，亦传播不出去。两列传播方向相反的相干波相遇而产生干涉，或介质沿波速的相反方向运动时，均可产生这个现象。常见的驻波现象是谐振器中，一列波与自身的反射波产生干涉而形成的。
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/Standing_wave_2.gif?raw=true" alt="" title="" />
+</div>
+
+<div align=center>
+驻波的形成
+</div>
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/Transient_to_standing_wave.gif?raw=true" alt="" title="" />
+</div>
+
+<div align=center>
+行波在障碍处反射形成驻波
+</div>
+
+<div align=center>
+<img src="https://github.com/ACGNnsj/compuational_physics_N2014301020001/blob/master/Exercise_13/Drum_vibration_mode21.gif?raw=true" alt="" title="" />
+</div>
+
+<div align=center>
+二维驻波
+</div>
